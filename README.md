@@ -1,32 +1,47 @@
-# Irving Ruas
+# Irving Ruas 👋
+**Full Stack Developer | Marketing & Automation | Performance-Driven Builder**
 
-Desenvolvedor Full Stack e Gestor de Marketing focado em automação, performance e soluções orientadas a resultado.
-Full Stack Developer and Marketing Manager focused on automation, performance, and outcome-driven solutions.
+Desenvolvo soluções que unem **produto + automação + performance**, com foco em **resultado real**: mais conversão, menos fricção, processos mais rápidos e escaláveis.
 
-## Sobre | About
-Comecei na tecnologia resolvendo problemas concretos e hoje atuo na interseção entre tecnologia, automação e estratégia para entregar resultados reais.
-I started in tech solving concrete problems and now work at the intersection of technology, automation, and strategy to deliver real outcomes.
+I build solutions at the intersection of **software + automation + growth**, focused on **real outcomes**: higher conversion, less friction, faster and scalable operations.
 
-## Especialidades | Focus
-- Desenvolvimento full stack (Python, Node.js, Web). / Full-stack development (Python, Node.js, Web).
-- Automação de processos e vendas. / Process and sales automation.
-- Integrações e APIs para operações e marketing. / Integrations and APIs for ops and marketing.
-- Análise de dados para decisão e performance. / Data analysis for decision-making and performance.
-- Ferramentas internas e CLIs. / Internal tools and CLIs.
+---
 
-## Impacto | Impact
-- +40% em vendas com estratégias digitais e automação. / +40% in sales with digital strategy and automation.
-- -30% no tempo de atendimento com fluxos automatizados. / -30% in response time with automated flows.
-- Redução de custos operacionais com processos mais enxutos. / Reduced operational costs with leaner processes.
+## 🚀 Sobre | About
+Sou desenvolvedor full stack com background forte em marketing e operações.  
+Gosto de transformar problemas concretos em **sistemas simples, rápidos e mensuráveis**.
 
-## Projetos em destaque | Featured Projects
-- [meu-site](https://github.com/N1ghthill/meu-site) — Portfólio pessoal. / Personal portfolio. (live: https://meu-site-neon-seven.vercel.app)
-- [web-analyzer-cli](https://github.com/N1ghthill/web-analyzer-cli) — CLI para análise técnica de sites. / Technical website analysis CLI.
-- [conversor-moeda](https://github.com/N1ghthill/conversor-moeda) — Conversor de moedas com API. / Currency converter with API.
-- [merlin-ia](https://github.com/N1ghthill/merlin-ia) — Assistente local com RAG. / Local assistant with RAG.
+I'm a full stack developer with a strong marketing/ops background.  
+I turn real problems into **simple, fast, measurable systems**.
 
-## Contato | Contact
-- Site: https://ruas.dev.br
-- E-mail: irving@ruas.dev.br
-- LinkedIn: https://linkedin.com/in/irvingruas
-- GitHub: https://github.com/N1ghthill
+---
+
+## 🧠 Stack & Foco | Stack & Focus
+- **Backend:** Python • Node.js • APIs • Automation • Integrations  
+- **Frontend:** Web Apps • UI • Dashboards  
+- **Data & Performance:** Analytics • Metrics • Optimization  
+- **Ops:** Tools • CLIs • Internal systems • Workflows  
+- **Growth:** Funnels • Automation • CRM • Conversion
+
+---
+
+## 📌 Impacto (Resultados) | Impact (Results)
+- **+40% vendas** com estratégia digital + automação  
+- **-30% tempo de atendimento** com fluxos automatizados  
+- **redução de custos operacionais** com processos mais enxutos e integrados
+
+---
+
+## ⭐ Projetos em Destaque | Featured Projects
+🔹 **[meu-site](https://github.com/N1ghthill/meu-site)** — Portfólio pessoal (Live: https://meu-site-neon-seven.vercel.app)  
+🔹 **[web-analyzer-cli](https://github.com/N1ghthill/web-analyzer-cli)** — CLI para análise técnica e performance de sites  
+🔹 **[conversor-moeda](https://github.com/N1ghthill/conversor-moeda)** — Conversor de moedas com API e integração de dados  
+🔹 **[merlin-ia](https://github.com/N1ghthill/merlin-ia)** — Assistente local com RAG (busca contextual + respostas)
+
+---
+
+## 🤝 Vamos construir algo? | Let’s build something
+📍 **Site:** https://ruas.dev.br  
+📩 **Email:** irving@ruas.dev.br  
+💼 **LinkedIn:** https://linkedin.com/in/irvingruas  
+🐙 **GitHub:** https://github.com/N1ghthill
