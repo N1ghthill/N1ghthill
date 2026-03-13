@@ -1,0 +1,26 @@
+<svg width="720" height="420" viewBox="0 0 720 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="60" y1="24" x2="666" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101D38"/>
+      <stop offset="1" stop-color="#244B88"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="420" rx="28" fill="url(#bg)"/>
+  <circle cx="604" cy="98" r="92" fill="#D9E6FF" fill-opacity="0.08"/>
+  <path d="M472 332H668" stroke="#9FC0FF" stroke-opacity="0.4" stroke-width="3"/>
+  <rect x="38" y="36" width="144" height="34" rx="17" fill="#0C1830" stroke="#4F84D9"/>
+  <text x="62" y="58" fill="#A9C8FF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1.2">NODE API</text>
+  <text x="40" y="126" fill="#F7FAFF" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">Escola Tecnica</text>
+  <text x="40" y="168" fill="#F7FAFF" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">Demo API</text>
+  <text x="40" y="228" fill="#D7E4FF" font-family="Arial, Helvetica, sans-serif" font-size="22">catalogo, leads, intencoes</text>
+  <text x="40" y="260" fill="#D7E4FF" font-family="Arial, Helvetica, sans-serif" font-size="22">e metricas de funil</text>
+  <rect x="40" y="316" width="92" height="32" rx="16" fill="#152B52"/>
+  <rect x="140" y="316" width="122" height="32" rx="16" fill="#152B52"/>
+  <rect x="270" y="316" width="96" height="32" rx="16" fill="#152B52"/>
+  <text x="63" y="337" fill="#DCE8FF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">NODE</text>
+  <text x="160" y="337" fill="#DCE8FF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">TYPESCRIPT</text>
+  <text x="294" y="337" fill="#DCE8FF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">EXPRESS</text>
+  <rect x="486" y="286" width="194" height="92" rx="20" fill="#F3F7FF"/>
+  <text x="514" y="320" fill="#29549B" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">BACKEND DEMO</text>
+  <text x="514" y="349" fill="#173866" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">payloads consistentes</text>
+</svg>

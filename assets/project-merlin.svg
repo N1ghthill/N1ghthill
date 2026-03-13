@@ -1,0 +1,25 @@
+<svg width="720" height="420" viewBox="0 0 720 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="46" y1="28" x2="660" y2="392" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10211B"/>
+      <stop offset="1" stop-color="#1E5B4B"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="420" rx="28" fill="url(#bg)"/>
+  <circle cx="604" cy="94" r="92" fill="#C8FFE8" fill-opacity="0.08"/>
+  <path d="M470 94H650" stroke="#8DD5BC" stroke-opacity="0.45" stroke-width="3"/>
+  <rect x="38" y="36" width="164" height="34" rx="17" fill="#132921" stroke="#56A182"/>
+  <text x="62" y="58" fill="#A3E6D0" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1.2">LOCAL-FIRST IA</text>
+  <text x="40" y="128" fill="#F4FFF9" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">Merlin IA</text>
+  <text x="40" y="190" fill="#D7F1E6" font-family="Arial, Helvetica, sans-serif" font-size="22">assistente Linux para automacao</text>
+  <text x="40" y="222" fill="#D7F1E6" font-family="Arial, Helvetica, sans-serif" font-size="22">e fluxos privados de produtividade</text>
+  <rect x="40" y="306" width="94" height="32" rx="16" fill="#173129"/>
+  <rect x="142" y="306" width="118" height="32" rx="16" fill="#173129"/>
+  <rect x="268" y="306" width="120" height="32" rx="16" fill="#173129"/>
+  <text x="66" y="327" fill="#DFF5EC" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">PYTHON</text>
+  <text x="160" y="327" fill="#DFF5EC" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">AUTOMATION</text>
+  <text x="294" y="327" fill="#DFF5EC" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">LOCAL-FIRST</text>
+  <rect x="474" y="286" width="206" height="92" rx="20" fill="#F3FFF9"/>
+  <text x="504" y="320" fill="#2F7A60" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">PRIVATE WORKFLOWS</text>
+  <text x="504" y="349" fill="#1E513F" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">IA rodando perto do usuario</text>
+</svg>
