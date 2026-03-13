@@ -5,24 +5,26 @@
       <stop offset="1" stop-color="#1A4F51"/>
     </linearGradient>
   </defs>
-  <rect width="720" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="720" height="420" rx="28" fill="#173B3C"/>
   <circle cx="612" cy="82" r="78" fill="#B8FFF1" fill-opacity="0.08"/>
   <circle cx="148" cy="334" r="104" fill="#0A1D1E" fill-opacity="0.45"/>
-  <rect x="38" y="36" width="170" height="34" rx="17" fill="#0F2324" stroke="#6CC7BA"/>
-  <text x="62" y="58" fill="#A5F1E6" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1.2">SHOWCASE DEMO</text>
-  <text x="40" y="130" fill="#F4FFFC" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">Escola Tecnica</text>
-  <text x="40" y="172" fill="#F4FFFC" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">Demo Front</text>
-  <text x="40" y="234" fill="#D0EEEA" font-family="Arial, Helvetica, sans-serif" font-size="22">landing, catalogo, pre-qualificacao,</text>
-  <text x="40" y="266" fill="#D0EEEA" font-family="Arial, Helvetica, sans-serif" font-size="22">matricula e painel demo</text>
+  <rect x="38" y="36" width="188" height="34" rx="17" fill="#0F2324" stroke="#6CC7BA"/>
+  <text x="60" y="58" fill="#A5F1E6" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1">SHOWCASE DEMO</text>
+  <text x="40" y="124" fill="#F4FFFC" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">Escola Tecnica</text>
+  <text x="40" y="162" fill="#F4FFFC" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">Demo Front</text>
+  <text x="40" y="224" fill="#D0EEEA" font-family="Arial, Helvetica, sans-serif" font-size="19">landing e catalogo</text>
+  <text x="40" y="252" fill="#D0EEEA" font-family="Arial, Helvetica, sans-serif" font-size="19">pre-qualificacao, matricula</text>
+  <text x="40" y="280" fill="#D0EEEA" font-family="Arial, Helvetica, sans-serif" font-size="19">e painel demo</text>
   <rect x="40" y="320" width="82" height="32" rx="16" fill="#123635"/>
   <rect x="130" y="320" width="74" height="32" rx="16" fill="#123635"/>
   <rect x="212" y="320" width="60" height="32" rx="16" fill="#123635"/>
   <rect x="280" y="320" width="90" height="32" rx="16" fill="#123635"/>
-  <text x="64" y="341" fill="#BFF2EA" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">HTML</text>
-  <text x="154" y="341" fill="#BFF2EA" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">CSS</text>
-  <text x="232" y="341" fill="#BFF2EA" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">JS</text>
-  <text x="307" y="341" fill="#BFF2EA" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">VERCEL</text>
-  <rect x="486" y="300" width="194" height="74" rx="18" fill="#F3FFFC"/>
-  <text x="516" y="330" fill="#1B4B49" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">LIVE DEMO</text>
-  <text x="516" y="357" fill="#163D3B" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">jornada publica pronta</text>
+  <text x="64" y="341" fill="#BFF2EA" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">HTML</text>
+  <text x="154" y="341" fill="#BFF2EA" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">CSS</text>
+  <text x="232" y="341" fill="#BFF2EA" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">JS</text>
+  <text x="307" y="341" fill="#BFF2EA" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">VERCEL</text>
+  <rect x="470" y="300" width="210" height="78" rx="18" fill="#F3FFFC"/>
+  <text x="500" y="328" fill="#1B4B49" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">LIVE DEMO</text>
+  <text x="500" y="350" fill="#163D3B" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">jornada publica</text>
+  <text x="500" y="370" fill="#163D3B" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">pronta para mostrar</text>
 </svg>

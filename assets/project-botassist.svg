@@ -5,22 +5,24 @@
       <stop offset="1" stop-color="#4A3A1D"/>
     </linearGradient>
   </defs>
-  <rect width="720" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="720" height="420" rx="28" fill="#3E301A"/>
   <circle cx="600" cy="88" r="88" fill="#FFE3A4" fill-opacity="0.10"/>
   <circle cx="112" cy="338" r="100" fill="#101010" fill-opacity="0.42"/>
-  <rect x="38" y="36" width="174" height="34" rx="17" fill="#221D14" stroke="#D7AA58"/>
-  <text x="60" y="58" fill="#F4D29A" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1.2">AUTOMACAO + IA</text>
-  <text x="40" y="128" fill="#FFF9F0" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">BotAssist</text>
-  <text x="40" y="170" fill="#FFF9F0" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">WhatsApp</text>
-  <text x="40" y="230" fill="#F2E1C0" font-family="Arial, Helvetica, sans-serif" font-size="22">desktop app para operacao no WhatsApp</text>
-  <text x="40" y="262" fill="#F2E1C0" font-family="Arial, Helvetica, sans-serif" font-size="22">com Electron, Baileys e IA</text>
+  <rect x="38" y="36" width="194" height="34" rx="17" fill="#221D14" stroke="#D7AA58"/>
+  <text x="60" y="58" fill="#F4D29A" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1">AUTOMACAO + IA</text>
+  <text x="40" y="124" fill="#FFF9F0" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">BotAssist</text>
+  <text x="40" y="162" fill="#FFF9F0" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">WhatsApp</text>
+  <text x="40" y="220" fill="#F2E1C0" font-family="Arial, Helvetica, sans-serif" font-size="19">desktop app para operacao</text>
+  <text x="40" y="248" fill="#F2E1C0" font-family="Arial, Helvetica, sans-serif" font-size="19">no WhatsApp com Electron,</text>
+  <text x="40" y="276" fill="#F2E1C0" font-family="Arial, Helvetica, sans-serif" font-size="19">Baileys e IA</text>
   <rect x="40" y="318" width="112" height="32" rx="16" fill="#2C2417"/>
   <rect x="160" y="318" width="94" height="32" rx="16" fill="#2C2417"/>
   <rect x="262" y="318" width="60" height="32" rx="16" fill="#2C2417"/>
-  <text x="64" y="339" fill="#FBE9C7" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">ELECTRON</text>
-  <text x="184" y="339" fill="#FBE9C7" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">BAILEYS</text>
-  <text x="283" y="339" fill="#FBE9C7" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">IA</text>
+  <text x="64" y="339" fill="#FBE9C7" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">ELECTRON</text>
+  <text x="184" y="339" fill="#FBE9C7" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">BAILEYS</text>
+  <text x="283" y="339" fill="#FBE9C7" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">IA</text>
   <rect x="478" y="286" width="202" height="92" rx="20" fill="#FFF8EB"/>
-  <text x="508" y="320" fill="#A06E1E" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">OPS TOOLING</text>
-  <text x="508" y="349" fill="#624414" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">atendimento assistido</text>
+  <text x="508" y="318" fill="#A06E1E" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">OPS TOOLING</text>
+  <text x="508" y="342" fill="#624414" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">atendimento</text>
+  <text x="508" y="364" fill="#624414" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">assistido</text>
 </svg>
