@@ -48,25 +48,29 @@
 
 ## 📂 Showcase público
 
-### Escola Técnica Demo Front
+Os títulos abaixo levam para os repositórios; links extras aparecem quando existe demo pública ou site.
+
+### Aquisição e jornada comercial
+
+**[Escola Técnica Demo Front](https://github.com/N1ghthill/escola-tecnica-demo-front)**<br />
 Jornada pública para captação, catálogo, pré-qualificação e matrícula.<br />
 `HTML` · `CSS` · `JavaScript` · `Vercel`<br />
-🔗 [Repositório](https://github.com/N1ghthill/escola-tecnica-demo-front) · 🌐 [Demo ao vivo](https://escola-tecnica-demo-front.vercel.app)
+🌐 [Demo ao vivo](https://escola-tecnica-demo-front.vercel.app)
 
-### Escola Técnica Demo API
+**[Escola Técnica Demo API](https://github.com/N1ghthill/escola-tecnica-demo-api)**<br />
 API Node.js e TypeScript para catálogo, leads, intenções e métricas de jornada.<br />
-`Node.js` · `TypeScript` · `Express`<br />
-🔗 [Repositório](https://github.com/N1ghthill/escola-tecnica-demo-api)
+`Node.js` · `TypeScript` · `Express`
 
-### api-demo
+### Cobrança, operação e automação
+
+**[api-demo](https://github.com/N1ghthill/api-demo)**<br />
 Backend para cobrança segura, webhooks, retries e fluxo comercial.<br />
-`Node.js` · `TypeScript` · `Express`<br />
-🔗 [Repositório](https://github.com/N1ghthill/api-demo)
+`Node.js` · `TypeScript` · `Express`
 
-### BotAssist WhatsApp
+**[BotAssist WhatsApp](https://github.com/N1ghthill/botassist-whatsapp)**<br />
 Ferramenta desktop para atendimento assistido, operação no WhatsApp e tooling interno.<br />
 `Electron` · `Baileys` · `IA`<br />
-🔗 [Repositório](https://github.com/N1ghthill/botassist-whatsapp) · 🌐 [Site](https://botassist.ruas.dev.br)
+🌐 [Site](https://botassist.ruas.dev.br)
 
 <details>
   <summary>📌 Ver mais repositórios públicos</summary>
