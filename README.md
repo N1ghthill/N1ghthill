@@ -46,40 +46,25 @@
 
 ## Showcase publico
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/N1ghthill/escola-tecnica-demo-front">
-        <img src="assets/project-escola-front.svg" alt="Escola Tecnica Demo Front" width="100%" />
-      </a>
-      <br />
-      <sub>[Repositorio](https://github.com/N1ghthill/escola-tecnica-demo-front) · [Demo ao vivo](https://escola-tecnica-demo-front.vercel.app)</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/N1ghthill/escola-tecnica-demo-api">
-        <img src="assets/project-escola-api.svg" alt="Escola Tecnica Demo API" width="100%" />
-      </a>
-      <br />
-      <sub>[Repositorio](https://github.com/N1ghthill/escola-tecnica-demo-api)</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/N1ghthill/api-demo">
-        <img src="assets/project-api-demo.svg" alt="api-demo" width="100%" />
-      </a>
-      <br />
-      <sub>[Repositorio](https://github.com/N1ghthill/api-demo)</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/N1ghthill/botassist-whatsapp">
-        <img src="assets/project-botassist.svg" alt="BotAssist WhatsApp" width="100%" />
-      </a>
-      <br />
-      <sub>[Repositorio](https://github.com/N1ghthill/botassist-whatsapp) · [Site](https://botassist.ruas.dev.br)</sub>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://github.com/N1ghthill/escola-tecnica-demo-front">
+    <img src="assets/project-escola-front.svg" alt="Escola Tecnica Demo Front" width="49%" />
+  </a>
+  <a href="https://github.com/N1ghthill/escola-tecnica-demo-api">
+    <img src="assets/project-escola-api.svg" alt="Escola Tecnica Demo API" width="49%" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/N1ghthill/api-demo">
+    <img src="assets/project-api-demo.svg" alt="api-demo" width="49%" />
+  </a>
+  <a href="https://github.com/N1ghthill/botassist-whatsapp">
+    <img src="assets/project-botassist.svg" alt="BotAssist WhatsApp" width="49%" />
+  </a>
+</p>
+
+<sub>Demos publicas: [Escola Front](https://escola-tecnica-demo-front.vercel.app) · [BotAssist](https://botassist.ruas.dev.br)</sub>
 
 Outros repositorios publicos: [meu-site](https://github.com/N1ghthill/meu-site), [merlin-ia](https://github.com/N1ghthill/merlin-ia), [ruas-links](https://github.com/N1ghthill/ruas-links) e [web-analyzer-cli](https://github.com/N1ghthill/web-analyzer-cli).
 
