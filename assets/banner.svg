@@ -1,81 +1,71 @@
-<svg width="1280" height="480" viewBox="0 0 1280 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1280" height="460" viewBox="0 0 1280 460" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="74" y1="40" x2="1206" y2="438" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="70" y1="34" x2="1198" y2="426" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0B1424"/>
-      <stop offset="0.48" stop-color="#11253F"/>
+      <stop offset="0.54" stop-color="#10213A"/>
       <stop offset="1" stop-color="#17344D"/>
     </linearGradient>
-    <linearGradient id="panelA" x1="0" y1="0" x2="320" y2="122" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#173B57"/>
-      <stop offset="1" stop-color="#10263B"/>
+    <linearGradient id="panelBlue" x1="0" y1="0" x2="388" y2="92" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#193F5E"/>
+      <stop offset="1" stop-color="#15314C"/>
     </linearGradient>
-    <linearGradient id="panelB" x1="0" y1="0" x2="320" y2="122" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#1C5C4E"/>
-      <stop offset="1" stop-color="#113128"/>
+    <linearGradient id="panelGreen" x1="0" y1="0" x2="388" y2="92" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E5E51"/>
+      <stop offset="1" stop-color="#174237"/>
     </linearGradient>
-    <linearGradient id="panelC" x1="0" y1="0" x2="320" y2="122" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#6C4716"/>
-      <stop offset="1" stop-color="#35210C"/>
+    <linearGradient id="panelGold" x1="0" y1="0" x2="388" y2="92" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7A5120"/>
+      <stop offset="1" stop-color="#4A2F11"/>
     </linearGradient>
     <pattern id="grid" x="0" y="0" width="36" height="36" patternUnits="userSpaceOnUse">
       <path d="M36 0H0V36" stroke="#9BB4D8" stroke-opacity="0.08"/>
     </pattern>
-    <filter id="glow" x="836" y="-24" width="320" height="320" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="56"/>
-    </filter>
   </defs>
 
-  <rect width="1280" height="480" rx="30" fill="url(#bg)"/>
-  <rect width="1280" height="480" rx="30" fill="url(#grid)"/>
+  <rect width="1280" height="460" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="460" rx="28" fill="url(#grid)"/>
 
-  <path d="M960 40C1040 72 1120 144 1184 256C1128 366 1038 428 908 442C1000 332 1030 194 960 40Z" fill="#0F1D31" stroke="#2E4A6A" stroke-opacity="0.5"/>
-  <circle cx="1110" cy="362" r="126" fill="#0E1B2D" stroke="#264160" stroke-opacity="0.5"/>
-  <circle cx="210" cy="388" r="142" fill="#0D1829" stroke="#203650" stroke-opacity="0.45"/>
+  <circle cx="1096" cy="110" r="74" fill="#E29D2A" fill-opacity="0.18"/>
+  <circle cx="1128" cy="342" r="112" fill="#112338" stroke="#294667" stroke-opacity="0.45"/>
+  <circle cx="178" cy="366" r="132" fill="#102033" stroke="#223C5A" stroke-opacity="0.4"/>
 
-  <g opacity="0.2" filter="url(#glow)">
-    <circle cx="996" cy="120" r="72" fill="#E89E22"/>
+  <path d="M74 104H628" stroke="#294768" stroke-width="2"/>
+  <path d="M74 332H560" stroke="#294768" stroke-width="2"/>
+
+  <rect x="76" y="72" width="188" height="36" rx="18" fill="#13263D" stroke="#31577F"/>
+  <text x="100" y="96" fill="#C6D5EA" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1.5">IRVING RUAS</text>
+
+  <text x="76" y="162" fill="#F4F7FB" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">vitrine tecnica</text>
+  <text x="76" y="218" fill="#F4F7FB" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">de sistemas reais</text>
+
+  <text x="76" y="276" fill="#A9B9D1" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400">APIs, automacao, backoffice e integracoes</text>
+  <text x="76" y="308" fill="#A9B9D1" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400">em operacao com clientes reais</text>
+
+  <rect x="78" y="352" width="146" height="42" rx="21" fill="#12263D" stroke="#31577F"/>
+  <rect x="238" y="352" width="134" height="42" rx="21" fill="#153328" stroke="#2E5D49"/>
+  <rect x="386" y="352" width="150" height="42" rx="21" fill="#372410" stroke="#986526"/>
+  <text x="118" y="378" fill="#DCE7F4" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">payments</text>
+  <text x="279" y="378" fill="#DFF2E9" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">APIs</text>
+  <text x="425" y="378" fill="#F6E3C3" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">automacao</text>
+
+  <g transform="translate(782 86)">
+    <rect width="392" height="92" rx="20" fill="#183A57" stroke="#5B8CC0" stroke-width="1.5"/>
+    <text x="24" y="34" fill="#8EB6ED" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.4">SHOWCASE</text>
+    <text x="24" y="62" fill="#F3F6FA" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">projetos funcionais</text>
+    <text x="24" y="88" fill="#F3F6FA" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">em uso real</text>
   </g>
 
-  <path d="M78 106H628" stroke="#2B4868" stroke-width="2"/>
-  <path d="M78 346H628" stroke="#2B4868" stroke-width="2"/>
-  <path d="M802 78H1160" stroke="#36567B" stroke-width="2"/>
-
-  <rect x="78" y="76" width="188" height="36" rx="18" fill="#13263D" stroke="#31577F"/>
-  <text x="102" y="100" fill="#C6D5EA" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1.5">IRVING RUAS</text>
-
-  <text x="78" y="162" fill="#F3F7FB" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700">produto, receita</text>
-  <text x="78" y="216" fill="#F3F7FB" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700">e automacao</text>
-
-  <text x="78" y="276" fill="#A7BAD4" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400">funis, APIs, backoffice</text>
-  <text x="78" y="306" fill="#A7BAD4" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400">e IA aplicada ao uso real</text>
-
-  <rect x="80" y="364" width="192" height="42" rx="21" fill="#11263B" stroke="#31577F"/>
-  <rect x="286" y="364" width="182" height="42" rx="21" fill="#133025" stroke="#2E5D4A"/>
-  <rect x="482" y="364" width="156" height="42" rx="21" fill="#32210F" stroke="#946428"/>
-  <text x="105" y="390" fill="#DCE7F4" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">revenue systems</text>
-  <text x="316" y="390" fill="#DCF2E8" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">APIs em producao</text>
-  <text x="515" y="390" fill="#F6E2C2" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">ops + AI</text>
-
-  <g transform="translate(814 98)">
-    <rect width="344" height="108" rx="20" fill="url(#panelA)" stroke="#3B648F"/>
-    <text x="24" y="36" fill="#8EB6ED" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.3">DELIVERY</text>
-    <text x="24" y="66" fill="#F3F6FA" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">landing page</text>
-    <text x="24" y="92" fill="#F3F6FA" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">API interna</text>
-    <rect x="264" y="24" width="50" height="18" rx="9" fill="#214A72"/>
-    <text x="279" y="37" fill="#DDE9F9" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="0.9">MVP</text>
+  <g transform="translate(748 196)">
+    <rect width="426" height="96" rx="20" fill="#1A4F44" stroke="#5BA28A" stroke-width="1.5"/>
+    <text x="24" y="34" fill="#86D7B7" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.4">FOCO TECNICO</text>
+    <text x="24" y="62" fill="#F3F6FA" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">Node.js, TypeScript, billing</text>
+    <text x="24" y="88" fill="#F3F6FA" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">integracoes e operacao</text>
   </g>
 
-  <g transform="translate(770 228)">
-    <rect width="388" height="112" rx="20" fill="url(#panelB)" stroke="#3A7A64"/>
-    <text x="40" y="36" fill="#85D7B6" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.3">PUBLIC SHIPPED</text>
-    <text x="40" y="66" fill="#F3F6FA" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">demos publicas para vendas</text>
-    <text x="40" y="90" fill="#F3F6FA" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">validacao e recrutamento</text>
-    <rect x="24" y="18" width="6" height="76" rx="3" fill="#73C8A5"/>
-  </g>
-
-  <g transform="translate(862 358)">
-    <rect width="296" height="72" rx="20" fill="url(#panelC)" stroke="#A7742D"/>
-    <text x="24" y="32" fill="#F2C36F" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.3">POSITIONING</text>
-    <text x="24" y="54" fill="#FBF0E0" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">engenharia com visao de negocio</text>
+  <g transform="translate(820 314)">
+    <rect width="354" height="88" rx="20" fill="#654318" stroke="#D39A46" stroke-width="1.5"/>
+    <text x="24" y="34" fill="#F2C36F" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.4">POSICIONAMENTO</text>
+    <text x="24" y="62" fill="#FBF0E0" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">vitrine tecnica</text>
+    <text x="24" y="86" fill="#FBF0E0" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">de operacao real</text>
   </g>
 </svg>
