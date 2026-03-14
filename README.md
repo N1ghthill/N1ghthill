@@ -2,22 +2,25 @@
   <img src="assets/banner.svg" alt="Irving Ruas profile banner" width="100%" />
 </p>
 
-<h1 align="center">Irving Ruas</h1>
-
-<p align="center">
-  <strong>Senior full stack engineer</strong><br />
-  APIs, billing e automacao para operacao real
-</p>
-
-<p align="center">
-  Sistemas para aquisicao, checkout, backoffice e integracoes.<br />
-  Produtos usados por clientes e times internos.
-</p>
-
-<p align="center">
-  Aberto a oportunidades senior, consultoria tecnica<br />
-  e parcerias em produto.
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Perfil</strong>
+      <br />
+      Senior full stack engineer em APIs, billing e automacao para operacao real.
+    </td>
+    <td width="34%" valign="top">
+      <strong>Atuacao</strong>
+      <br />
+      Sistemas para aquisicao, checkout, backoffice e integracoes usados por clientes e times internos.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Disponibilidade</strong>
+      <br />
+      Oportunidades senior, consultoria tecnica e parcerias em produto.
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://ruas.dev.br"><strong>Site</strong></a> ·
@@ -26,8 +29,7 @@
 </p>
 
 <p align="center">
-  <code>Node.js</code> <code>TypeScript</code> <code>Payments</code><br />
-  <code>APIs</code> <code>Automation</code> <code>Product</code>
+  <code>Node.js</code> <code>TypeScript</code> <code>Payments</code> <code>APIs</code> <code>Automation</code> <code>Product</code>
 </p>
 
 ## Onde eu gero valor
