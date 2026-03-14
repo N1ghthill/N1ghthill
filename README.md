@@ -46,37 +46,39 @@
 
 ## Showcase publico
 
-### Escola Tecnica Demo Front
+<p align="left">
+  <a href="https://github.com/N1ghthill/escola-tecnica-demo-front">
+    <img src="assets/project-escola-front.svg" alt="Escola Tecnica Demo Front" width="49%" />
+  </a>
+  <a href="https://github.com/N1ghthill/escola-tecnica-demo-api">
+    <img src="assets/project-escola-api.svg" alt="Escola Tecnica Demo API" width="49%" />
+  </a>
+</p>
 
-<a href="https://github.com/N1ghthill/escola-tecnica-demo-front">
-  <img src="assets/project-escola-front.svg" alt="Escola Tecnica Demo Front" width="100%" />
-</a>
+<strong>Escola Tecnica Demo Front</strong> · [Repositorio](https://github.com/N1ghthill/escola-tecnica-demo-front) · [Demo ao vivo](https://escola-tecnica-demo-front.vercel.app)<br />
+Jornada publica para captacao, catalogo, pre-qualificacao e matricula.
 
-Jornada publica para captacao, catalogo, pre-qualificacao e matricula. [Repositorio](https://github.com/N1ghthill/escola-tecnica-demo-front) · [Demo ao vivo](https://escola-tecnica-demo-front.vercel.app)
+<br />
 
-### Escola Tecnica Demo API
+<strong>Escola Tecnica Demo API</strong> · [Repositorio](https://github.com/N1ghthill/escola-tecnica-demo-api)<br />
+API Node.js e TypeScript para catalogo, leads, intencoes e metricas.
 
-<a href="https://github.com/N1ghthill/escola-tecnica-demo-api">
-  <img src="assets/project-escola-api.svg" alt="Escola Tecnica Demo API" width="100%" />
-</a>
+<p align="left">
+  <a href="https://github.com/N1ghthill/api-demo">
+    <img src="assets/project-api-demo.svg" alt="api-demo" width="49%" />
+  </a>
+  <a href="https://github.com/N1ghthill/botassist-whatsapp">
+    <img src="assets/project-botassist.svg" alt="BotAssist WhatsApp" width="49%" />
+  </a>
+</p>
 
-API Node.js e TypeScript para catalogo, leads, intencoes e metricas. [Repositorio](https://github.com/N1ghthill/escola-tecnica-demo-api)
+<strong>api-demo</strong> · [Repositorio](https://github.com/N1ghthill/api-demo)<br />
+Backend demo com pagamentos idempotentes e fluxo seguro de leads.
 
-### api-demo
+<br />
 
-<a href="https://github.com/N1ghthill/api-demo">
-  <img src="assets/project-api-demo.svg" alt="api-demo" width="100%" />
-</a>
-
-Backend demo com pagamentos idempotentes e fluxo seguro de leads. [Repositorio](https://github.com/N1ghthill/api-demo)
-
-### BotAssist WhatsApp
-
-<a href="https://github.com/N1ghthill/botassist-whatsapp">
-  <img src="assets/project-botassist.svg" alt="BotAssist WhatsApp" width="100%" />
-</a>
-
-App desktop para operacao no WhatsApp com Electron, Baileys e IA. [Repositorio](https://github.com/N1ghthill/botassist-whatsapp) · [Site](https://botassist.ruas.dev.br)
+<strong>BotAssist WhatsApp</strong> · [Repositorio](https://github.com/N1ghthill/botassist-whatsapp) · [Site](https://botassist.ruas.dev.br)<br />
+App desktop para operacao no WhatsApp com Electron, Baileys e IA.
 
 Outros repositorios publicos: [meu-site](https://github.com/N1ghthill/meu-site), [merlin-ia](https://github.com/N1ghthill/merlin-ia), [ruas-links](https://github.com/N1ghthill/ruas-links) e [web-analyzer-cli](https://github.com/N1ghthill/web-analyzer-cli).
 
