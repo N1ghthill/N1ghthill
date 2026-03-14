@@ -22,27 +22,6 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="18%" valign="top">
-      <strong>Contato</strong>
-    </td>
-    <td valign="top">
-      <a href="https://ruas.dev.br"><strong>Site</strong></a> ·
-      <a href="https://linkedin.com/in/irvingruas"><strong>LinkedIn</strong></a> ·
-      <a href="mailto:irving@ruas.dev.br"><strong>Email</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="18%" valign="top">
-      <strong>Base tecnica</strong>
-    </td>
-    <td valign="top">
-      <code>Node.js</code> <code>TypeScript</code> <code>Payments</code> <code>APIs</code> <code>Automation</code> <code>Product</code>
-    </td>
-  </tr>
-</table>
-
 ## Onde eu gero valor
 
 <table>
