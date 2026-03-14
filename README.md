@@ -46,8 +46,6 @@
 
 ## Showcase publico
 
-Projetos publicos que mostram jornada, backend, pagamentos e tooling operacional.
-
 <p align="left">
   <a href="https://github.com/N1ghthill/escola-tecnica-demo-front">
     <img src="assets/project-escola-front.svg" alt="Escola Tecnica Demo Front" width="49%" />
@@ -56,8 +54,6 @@ Projetos publicos que mostram jornada, backend, pagamentos e tooling operacional
     <img src="assets/project-escola-api.svg" alt="Escola Tecnica Demo API" width="49%" />
   </a>
 </p>
-
-<sub><strong>Captacao e conversao</strong> · [Escola Front](https://github.com/N1ghthill/escola-tecnica-demo-front) · [Demo ao vivo](https://escola-tecnica-demo-front.vercel.app) · [Escola API](https://github.com/N1ghthill/escola-tecnica-demo-api)</sub>
 
 <p align="left">
   <a href="https://github.com/N1ghthill/api-demo">
@@ -68,11 +64,18 @@ Projetos publicos que mostram jornada, backend, pagamentos e tooling operacional
   </a>
 </p>
 
-<sub><strong>Pagamentos e automacao</strong> · [api-demo](https://github.com/N1ghthill/api-demo) · [BotAssist](https://github.com/N1ghthill/botassist-whatsapp) · [Site](https://botassist.ruas.dev.br)</sub>
+<sub>Demos externas: [Escola Front](https://escola-tecnica-demo-front.vercel.app) · [BotAssist](https://botassist.ruas.dev.br)</sub>
 
 <br />
 
-<sub>Mais publico: [meu-site](https://github.com/N1ghthill/meu-site) · [merlin-ia](https://github.com/N1ghthill/merlin-ia) · [ruas-links](https://github.com/N1ghthill/ruas-links) · [web-analyzer-cli](https://github.com/N1ghthill/web-analyzer-cli)</sub>
+<details>
+  <summary>Mais repositorios publicos</summary>
+  <br />
+  <a href="https://github.com/N1ghthill/meu-site">meu-site</a> ·
+  <a href="https://github.com/N1ghthill/merlin-ia">merlin-ia</a> ·
+  <a href="https://github.com/N1ghthill/ruas-links">ruas-links</a> ·
+  <a href="https://github.com/N1ghthill/web-analyzer-cli">web-analyzer-cli</a>
+</details>
 
 ## Trabalho alem do open source
 
