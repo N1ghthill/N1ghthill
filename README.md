@@ -48,27 +48,27 @@
 
 ## 📂 Showcase público
 
-Os títulos abaixo levam para os repositórios; links extras aparecem quando existe demo pública ou site.
+Projetos públicos que mostram como transformo aquisição, cobrança e operação em sistemas usáveis no dia a dia.
 
 ### Aquisição e jornada comercial
 
 **[Escola Técnica Demo Front](https://github.com/N1ghthill/escola-tecnica-demo-front)**<br />
-Jornada pública para captação, catálogo, pré-qualificação e matrícula.<br />
+Fluxo público pensado para transformar tráfego em lead qualificado e matrícula.<br />
 `HTML` · `CSS` · `JavaScript` · `Vercel`<br />
 🌐 [Demo ao vivo](https://escola-tecnica-demo-front.vercel.app)
 
 **[Escola Técnica Demo API](https://github.com/N1ghthill/escola-tecnica-demo-api)**<br />
-API Node.js e TypeScript para catálogo, leads, intenções e métricas de jornada.<br />
+Backend para organizar catálogo, registrar intenção e dar visibilidade à jornada comercial.<br />
 `Node.js` · `TypeScript` · `Express`
 
 ### Cobrança, operação e automação
 
 **[api-demo](https://github.com/N1ghthill/api-demo)**<br />
-Backend para cobrança segura, webhooks, retries e fluxo comercial.<br />
+Base transacional para cobrança e eventos críticos com consistência operacional.<br />
 `Node.js` · `TypeScript` · `Express`
 
 **[BotAssist WhatsApp](https://github.com/N1ghthill/botassist-whatsapp)**<br />
-Ferramenta desktop para atendimento assistido, operação no WhatsApp e tooling interno.<br />
+Ferramenta interna para acelerar atendimento, padronizar operação e reduzir trabalho manual.<br />
 `Electron` · `Baileys` · `IA`<br />
 🌐 [Site](https://botassist.ruas.dev.br)
 
