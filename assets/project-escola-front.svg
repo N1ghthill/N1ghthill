@@ -20,8 +20,8 @@
   <circle cx="126" cy="342" r="106" fill="#102A2B" stroke="#4D8581" stroke-opacity="0.4"/>
   <circle cx="612" cy="78" r="70" fill="#1C5854" stroke="#76D2C5" stroke-opacity="0.45"/>
 
-  <rect x="40" y="40" width="156" height="34" rx="17" fill="#102829" stroke="#6CC7BA"/>
-  <text x="62" y="62" fill="#B7F2E9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1">FRONT DEMO</text>
+  <rect x="40" y="40" width="166" height="34" rx="17" fill="#102829" stroke="#6CC7BA"/>
+  <text x="62" y="62" fill="#B7F2E9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1">FRONT PUBLICO</text>
 
   <text x="40" y="128" fill="#F4FFFC" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Escola Tecnica</text>
   <text x="40" y="172" fill="#F4FFFC" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Demo Front</text>
@@ -41,7 +41,7 @@
 
   <rect x="454" y="24" width="242" height="372" rx="24" fill="url(#frontPanel)"/>
   <rect x="478" y="50" width="194" height="126" rx="18" fill="#F2FBF8"/>
-  <text x="502" y="82" fill="#276663" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">PUBLIC FLOW</text>
+  <text x="502" y="82" fill="#276663" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">DEMO AO VIVO</text>
   <text x="502" y="110" fill="#184240" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">captacao</text>
   <text x="502" y="136" fill="#184240" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">catalogo</text>
   <text x="502" y="162" fill="#184240" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">matricula</text>
@@ -57,5 +57,5 @@
   <rect x="478" y="362" width="88" height="20" rx="10" fill="#255150"/>
   <rect x="576" y="362" width="96" height="20" rx="10" fill="#295E58"/>
   <text x="501" y="376" fill="#E3F7F2" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="0.8">VERCEL</text>
-  <text x="598" y="376" fill="#E3F7F2" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="0.8">PUBLIC</text>
+  <text x="594" y="376" fill="#E3F7F2" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="0.8">ONLINE</text>
 </svg>

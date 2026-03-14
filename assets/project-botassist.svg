@@ -20,8 +20,8 @@
   <circle cx="126" cy="342" r="106" fill="#302210" stroke="#8A6733" stroke-opacity="0.35"/>
   <circle cx="612" cy="78" r="70" fill="#6F5327" stroke="#E0B267" stroke-opacity="0.35"/>
 
-  <rect x="40" y="40" width="194" height="34" rx="17" fill="#241B0F" stroke="#D7AA58"/>
-  <text x="61" y="62" fill="#F4D29A" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1">AUTOMACAO + IA</text>
+  <rect x="40" y="40" width="186" height="34" rx="17" fill="#241B0F" stroke="#D7AA58"/>
+  <text x="61" y="62" fill="#F4D29A" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1">OPERACAO + IA</text>
 
   <text x="40" y="128" fill="#FFF9F0" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">BotAssist</text>
   <text x="40" y="172" fill="#FFF9F0" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">WhatsApp</text>
@@ -39,10 +39,10 @@
 
   <rect x="454" y="24" width="242" height="372" rx="24" fill="url(#botPanel)"/>
   <rect x="478" y="50" width="194" height="126" rx="18" fill="#FFF7EA"/>
-  <text x="502" y="82" fill="#A06E1E" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">OPS TOOLING</text>
-  <text x="502" y="110" fill="#624414" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">atendimento</text>
-  <text x="502" y="136" fill="#624414" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">assistido</text>
-  <text x="502" y="162" fill="#624414" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">macros e IA</text>
+  <text x="502" y="82" fill="#A06E1E" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">ATENDIMENTO</text>
+  <text x="502" y="110" fill="#624414" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">respostas</text>
+  <text x="502" y="136" fill="#624414" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">macros</text>
+  <text x="502" y="162" fill="#624414" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">IA assistida</text>
 
   <rect x="478" y="190" width="194" height="160" rx="18" fill="#342815" stroke="#D7AA58"/>
   <text x="502" y="222" fill="#F2C46F" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">CAPACIDADES</text>
@@ -55,5 +55,5 @@
   <rect x="478" y="362" width="88" height="20" rx="10" fill="#5A431E"/>
   <rect x="576" y="362" width="96" height="20" rx="10" fill="#7C5721"/>
   <text x="495" y="376" fill="#FFF0D5" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="0.8">DESKTOP</text>
-  <text x="596" y="376" fill="#FFF0D5" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="0.8">AI OPS</text>
+  <text x="587" y="376" fill="#FFF0D5" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="0.8">OPERACAO</text>
 </svg>

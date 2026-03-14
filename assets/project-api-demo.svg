@@ -24,10 +24,10 @@
   <text x="62" y="62" fill="#B8CEEF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1">PAYMENTS API</text>
 
   <text x="40" y="128" fill="#F4F8FF" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">api-demo</text>
-  <text x="40" y="172" fill="#F4F8FF" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">payments backend</text>
-  <text x="40" y="206" fill="#D8E4F8" font-family="Arial, Helvetica, sans-serif" font-size="18">cobranca, webhooks</text>
+  <text x="40" y="172" fill="#F4F8FF" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">cobranca segura</text>
+  <text x="40" y="206" fill="#D8E4F8" font-family="Arial, Helvetica, sans-serif" font-size="18">webhooks, retries</text>
   <text x="40" y="232" fill="#D8E4F8" font-family="Arial, Helvetica, sans-serif" font-size="18">idempotencia e</text>
-  <text x="40" y="258" fill="#D8E4F8" font-family="Arial, Helvetica, sans-serif" font-size="18">lead flow seguro</text>
+  <text x="40" y="258" fill="#D8E4F8" font-family="Arial, Helvetica, sans-serif" font-size="18">fluxo comercial</text>
 
   <path d="M40 286H404" stroke="#44689E" stroke-width="2"/>
   <rect x="40" y="308" width="98" height="34" rx="17" fill="#E1EBFC"/>
@@ -39,13 +39,13 @@
 
   <rect x="454" y="24" width="242" height="372" rx="24" fill="url(#apiPanel)"/>
   <rect x="478" y="50" width="194" height="126" rx="18" fill="#F3F7FF"/>
-  <text x="502" y="82" fill="#335C9E" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">OPS READY</text>
+  <text x="502" y="82" fill="#335C9E" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">OPERACAO</text>
   <text x="502" y="110" fill="#173866" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">cobranca</text>
   <text x="502" y="136" fill="#173866" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">webhooks</text>
   <text x="502" y="162" fill="#173866" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">idempotencia</text>
 
   <rect x="478" y="190" width="194" height="160" rx="18" fill="#132540" stroke="#5E86CA"/>
-  <text x="502" y="222" fill="#A8C4F7" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">CHECKS</text>
+  <text x="502" y="222" fill="#A8C4F7" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">CONTROLES</text>
   <rect x="502" y="244" width="138" height="10" rx="5" fill="#395C92"/>
   <rect x="502" y="266" width="154" height="10" rx="5" fill="#395C92"/>
   <rect x="502" y="288" width="118" height="10" rx="5" fill="#395C92"/>
@@ -54,6 +54,6 @@
 
   <rect x="478" y="362" width="114" height="20" rx="10" fill="#224168"/>
   <rect x="600" y="362" width="72" height="20" rx="10" fill="#7A531D"/>
-  <text x="493" y="376" fill="#D8E4F8" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="0.8">IDEMPOTENCY</text>
-  <text x="620" y="376" fill="#F6E4C6" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="0.8">OPS</text>
+  <text x="487" y="376" fill="#D8E4F8" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="0.8">IDEMPOTENCIA</text>
+  <text x="611" y="376" fill="#F6E4C6" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="0.8">WEBHOOK</text>
 </svg>
