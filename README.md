@@ -48,19 +48,19 @@
 
 <p align="left">
   <a href="https://github.com/N1ghthill/escola-tecnica-demo-front">
-    <img src="assets/project-escola-front.svg" alt="Escola Tecnica Demo Front" width="49%" />
+    <img src="assets/project-escola-front.png" alt="Escola Tecnica Demo Front" width="49%" />
   </a>
   <a href="https://github.com/N1ghthill/escola-tecnica-demo-api">
-    <img src="assets/project-escola-api.svg" alt="Escola Tecnica Demo API" width="49%" />
+    <img src="assets/project-escola-api.png" alt="Escola Tecnica Demo API" width="49%" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/N1ghthill/api-demo">
-    <img src="assets/project-api-demo.svg" alt="api-demo" width="49%" />
+    <img src="assets/project-api-demo.png" alt="api-demo" width="49%" />
   </a>
   <a href="https://github.com/N1ghthill/botassist-whatsapp">
-    <img src="assets/project-botassist.svg" alt="BotAssist WhatsApp" width="49%" />
+    <img src="assets/project-botassist.png" alt="BotAssist WhatsApp" width="49%" />
   </a>
 </p>
 
