@@ -1,30 +1,61 @@
 <svg width="720" height="420" viewBox="0 0 720 420" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="720" height="420" rx="28" fill="#173B3C"/>
-  <rect x="454" y="24" width="242" height="372" rx="24" fill="#214C4D"/>
-  <rect x="478" y="52" width="194" height="128" rx="18" fill="#F2FBF8"/>
-  <text x="502" y="86" fill="#1B4B49" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.3">LIVE DEMO</text>
-  <text x="502" y="114" fill="#163D3B" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">jornada</text>
-  <text x="502" y="140" fill="#163D3B" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">publica pronta</text>
-  <text x="502" y="166" fill="#163D3B" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">para demo</text>
-  <rect x="478" y="196" width="194" height="152" rx="18" fill="#143334" stroke="#4F8E89"/>
-  <text x="502" y="228" fill="#8FE6D8" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.3">FLUXO</text>
-  <rect x="502" y="248" width="146" height="10" rx="5" fill="#295F60"/>
-  <rect x="502" y="270" width="116" height="10" rx="5" fill="#295F60"/>
-  <rect x="502" y="292" width="160" height="10" rx="5" fill="#295F60"/>
-  <rect x="502" y="314" width="128" height="10" rx="5" fill="#295F60"/>
-  <rect x="40" y="40" width="176" height="34" rx="17" fill="#0D2627" stroke="#6CC7BA"/>
-  <text x="62" y="62" fill="#A5F1E6" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1">SHOWCASE DEMO</text>
-  <text x="40" y="130" fill="#F4FFFC" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">Escola Tecnica</text>
-  <text x="40" y="172" fill="#F4FFFC" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">Demo Front</text>
-  <text x="40" y="236" fill="#D4ECE7" font-family="Arial, Helvetica, sans-serif" font-size="19">landing, catalogo,</text>
-  <text x="40" y="264" fill="#D4ECE7" font-family="Arial, Helvetica, sans-serif" font-size="19">pre-qualificacao, matricula</text>
-  <text x="40" y="292" fill="#D4ECE7" font-family="Arial, Helvetica, sans-serif" font-size="19">e painel demo</text>
-  <rect x="40" y="338" width="86" height="34" rx="17" fill="#DDF7F1"/>
-  <rect x="138" y="338" width="78" height="34" rx="17" fill="#DDF7F1"/>
-  <rect x="228" y="338" width="62" height="34" rx="17" fill="#DDF7F1"/>
-  <rect x="302" y="338" width="96" height="34" rx="17" fill="#DDF7F1"/>
-  <text x="66" y="360" fill="#164342" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">HTML</text>
-  <text x="162" y="360" fill="#164342" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">CSS</text>
-  <text x="250" y="360" fill="#164342" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">JS</text>
-  <text x="330" y="360" fill="#164342" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">VERCEL</text>
+  <defs>
+    <linearGradient id="frontBg" x1="48" y1="36" x2="650" y2="396" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#123434"/>
+      <stop offset="0.55" stop-color="#184445"/>
+      <stop offset="1" stop-color="#225657"/>
+    </linearGradient>
+    <linearGradient id="frontPanel" x1="476" y1="24" x2="694" y2="396" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E4B4C"/>
+      <stop offset="1" stop-color="#143537"/>
+    </linearGradient>
+    <pattern id="frontGrid" x="0" y="0" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#B8DDD8" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <rect width="720" height="420" rx="28" fill="url(#frontBg)"/>
+  <rect width="720" height="420" rx="28" fill="url(#frontGrid)"/>
+
+  <circle cx="126" cy="342" r="106" fill="#102A2B" stroke="#4D8581" stroke-opacity="0.4"/>
+  <circle cx="612" cy="78" r="70" fill="#1C5854" stroke="#76D2C5" stroke-opacity="0.45"/>
+
+  <rect x="40" y="40" width="156" height="34" rx="17" fill="#102829" stroke="#6CC7BA"/>
+  <text x="62" y="62" fill="#B7F2E9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1">FRONT DEMO</text>
+
+  <text x="40" y="128" fill="#F4FFFC" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Escola Tecnica</text>
+  <text x="40" y="172" fill="#F4FFFC" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Demo Front</text>
+  <text x="40" y="206" fill="#D9EEE9" font-family="Arial, Helvetica, sans-serif" font-size="18">captacao, catalogo</text>
+  <text x="40" y="232" fill="#D9EEE9" font-family="Arial, Helvetica, sans-serif" font-size="18">pre-qualificacao</text>
+  <text x="40" y="258" fill="#D9EEE9" font-family="Arial, Helvetica, sans-serif" font-size="18">e matricula online</text>
+
+  <path d="M40 286H404" stroke="#4C7A78" stroke-width="2"/>
+  <rect x="40" y="308" width="86" height="34" rx="17" fill="#DDF7F1"/>
+  <rect x="138" y="308" width="78" height="34" rx="17" fill="#DDF7F1"/>
+  <rect x="228" y="308" width="62" height="34" rx="17" fill="#DDF7F1"/>
+  <rect x="302" y="308" width="96" height="34" rx="17" fill="#DDF7F1"/>
+  <text x="66" y="330" fill="#164342" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">HTML</text>
+  <text x="162" y="330" fill="#164342" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">CSS</text>
+  <text x="250" y="330" fill="#164342" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">JS</text>
+  <text x="330" y="330" fill="#164342" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">VERCEL</text>
+
+  <rect x="454" y="24" width="242" height="372" rx="24" fill="url(#frontPanel)"/>
+  <rect x="478" y="50" width="194" height="126" rx="18" fill="#F2FBF8"/>
+  <text x="502" y="82" fill="#276663" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">PUBLIC FLOW</text>
+  <text x="502" y="110" fill="#184240" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">captacao</text>
+  <text x="502" y="136" fill="#184240" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">catalogo</text>
+  <text x="502" y="162" fill="#184240" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">matricula</text>
+
+  <rect x="478" y="190" width="194" height="160" rx="18" fill="#143334" stroke="#5EA59D"/>
+  <text x="502" y="222" fill="#9BE8DB" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">JORNADA</text>
+  <rect x="502" y="244" width="146" height="10" rx="5" fill="#2C6866"/>
+  <rect x="502" y="266" width="118" height="10" rx="5" fill="#2C6866"/>
+  <rect x="502" y="288" width="160" height="10" rx="5" fill="#2C6866"/>
+  <rect x="502" y="310" width="132" height="10" rx="5" fill="#2C6866"/>
+  <rect x="502" y="332" width="148" height="10" rx="5" fill="#2C6866"/>
+
+  <rect x="478" y="362" width="88" height="20" rx="10" fill="#255150"/>
+  <rect x="576" y="362" width="96" height="20" rx="10" fill="#295E58"/>
+  <text x="501" y="376" fill="#E3F7F2" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="0.8">VERCEL</text>
+  <text x="598" y="376" fill="#E3F7F2" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="0.8">PUBLIC</text>
 </svg>
