@@ -5,15 +5,18 @@
 <h1 align="center">Irving Ruas</h1>
 
 <p align="center">
-  Senior full stack engineer focado em APIs, billing e automacao para operacao real.
+  <strong>Senior full stack engineer</strong><br />
+  APIs, billing e automacao para operacao real
 </p>
 
 <p align="center">
-  Desenvolvo produtos e sistemas usados por clientes e times internos: aquisicao, checkout, backoffice, integracoes e fluxos com IA aplicada.
+  Sistemas para aquisicao, checkout, backoffice e integracoes.<br />
+  Produtos usados por clientes e times internos.
 </p>
 
 <p align="center">
-  Aberto a oportunidades senior, consultoria tecnica e parcerias em produto.
+  Aberto a oportunidades senior, consultoria tecnica<br />
+  e parcerias em produto.
 </p>
 
 <p align="center">
@@ -23,7 +26,8 @@
 </p>
 
 <p align="center">
-  <code>Node.js</code> <code>TypeScript</code> <code>Payments</code> <code>APIs</code> <code>Automation</code> <code>Product</code>
+  <code>Node.js</code> <code>TypeScript</code> <code>Payments</code><br />
+  <code>APIs</code> <code>Automation</code> <code>Product</code>
 </p>
 
 ## Onde eu gero valor
