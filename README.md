@@ -46,60 +46,39 @@
 
 ## Showcase publico
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/N1ghthill/escola-tecnica-demo-front">
-        <img src="assets/project-escola-front.svg" alt="Escola Tecnica Demo Front" width="100%" />
-      </a>
-      <br />
-      <sub>
-        <a href="https://github.com/N1ghthill/escola-tecnica-demo-front">Repositorio</a> ·
-        <a href="https://escola-tecnica-demo-front.vercel.app">Demo ao vivo</a>
-        <br />
-        Jornada publica para captacao, catalogo, pre-qualificacao e matricula.
-      </sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/N1ghthill/escola-tecnica-demo-api">
-        <img src="assets/project-escola-api.svg" alt="Escola Tecnica Demo API" width="100%" />
-      </a>
-      <br />
-      <sub>
-        <a href="https://github.com/N1ghthill/escola-tecnica-demo-api">Repositorio</a>
-        <br />
-        API Node.js e TypeScript para catalogo, leads, intencoes e metricas.
-      </sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/N1ghthill/api-demo">
-        <img src="assets/project-api-demo.svg" alt="api-demo" width="100%" />
-      </a>
-      <br />
-      <sub>
-        <a href="https://github.com/N1ghthill/api-demo">Repositorio</a>
-        <br />
-        Backend demo com pagamentos idempotentes e fluxo seguro de leads.
-      </sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/N1ghthill/botassist-whatsapp">
-        <img src="assets/project-botassist.svg" alt="BotAssist WhatsApp" width="100%" />
-      </a>
-      <br />
-      <sub>
-        <a href="https://github.com/N1ghthill/botassist-whatsapp">Repositorio</a> ·
-        <a href="https://botassist.ruas.dev.br">Site</a>
-        <br />
-        App desktop para operacao no WhatsApp com Electron, Baileys e IA.
-      </sub>
-    </td>
-  </tr>
-</table>
+### Escola Tecnica Demo Front
 
-Mais publico: [meu-site](https://github.com/N1ghthill/meu-site), [merlin-ia](https://github.com/N1ghthill/merlin-ia), [ruas-links](https://github.com/N1ghthill/ruas-links) e [web-analyzer-cli](https://github.com/N1ghthill/web-analyzer-cli).
+<a href="https://github.com/N1ghthill/escola-tecnica-demo-front">
+  <img src="assets/project-escola-front.svg" alt="Escola Tecnica Demo Front" width="100%" />
+</a>
+
+Jornada publica para captacao, catalogo, pre-qualificacao e matricula. [Repositorio](https://github.com/N1ghthill/escola-tecnica-demo-front) · [Demo ao vivo](https://escola-tecnica-demo-front.vercel.app)
+
+### Escola Tecnica Demo API
+
+<a href="https://github.com/N1ghthill/escola-tecnica-demo-api">
+  <img src="assets/project-escola-api.svg" alt="Escola Tecnica Demo API" width="100%" />
+</a>
+
+API Node.js e TypeScript para catalogo, leads, intencoes e metricas. [Repositorio](https://github.com/N1ghthill/escola-tecnica-demo-api)
+
+### api-demo
+
+<a href="https://github.com/N1ghthill/api-demo">
+  <img src="assets/project-api-demo.svg" alt="api-demo" width="100%" />
+</a>
+
+Backend demo com pagamentos idempotentes e fluxo seguro de leads. [Repositorio](https://github.com/N1ghthill/api-demo)
+
+### BotAssist WhatsApp
+
+<a href="https://github.com/N1ghthill/botassist-whatsapp">
+  <img src="assets/project-botassist.svg" alt="BotAssist WhatsApp" width="100%" />
+</a>
+
+App desktop para operacao no WhatsApp com Electron, Baileys e IA. [Repositorio](https://github.com/N1ghthill/botassist-whatsapp) · [Site](https://botassist.ruas.dev.br)
+
+Outros repositorios publicos: [meu-site](https://github.com/N1ghthill/meu-site), [merlin-ia](https://github.com/N1ghthill/merlin-ia), [ruas-links](https://github.com/N1ghthill/ruas-links) e [web-analyzer-cli](https://github.com/N1ghthill/web-analyzer-cli).
 
 ## Trabalho alem do open source
 
