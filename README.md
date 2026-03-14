@@ -46,27 +46,25 @@
 
 ## Showcase publico
 
-<p align="left">
-  <a href="https://github.com/N1ghthill/escola-tecnica-demo-front">
-    <img src="assets/project-escola-front.png" alt="Escola Tecnica Demo Front" width="49%" />
-  </a>
-  <a href="https://github.com/N1ghthill/escola-tecnica-demo-api">
-    <img src="assets/project-escola-api.png" alt="Escola Tecnica Demo API" width="49%" />
-  </a>
-</p>
+**Escola Tecnica Demo Front**<br />
+Jornada publica para captacao, catalogo, pre-qualificacao e matricula.<br />
+<sub>HTML · CSS · JavaScript · Vercel</sub><br />
+[Repositorio](https://github.com/N1ghthill/escola-tecnica-demo-front) · [Demo ao vivo](https://escola-tecnica-demo-front.vercel.app)
 
-<p align="left">
-  <a href="https://github.com/N1ghthill/api-demo">
-    <img src="assets/project-api-demo.png" alt="api-demo" width="49%" />
-  </a>
-  <a href="https://github.com/N1ghthill/botassist-whatsapp">
-    <img src="assets/project-botassist.png" alt="BotAssist WhatsApp" width="49%" />
-  </a>
-</p>
+**Escola Tecnica Demo API**<br />
+API Node.js e TypeScript para catalogo, leads, intencoes e metricas de jornada.<br />
+<sub>Node · TypeScript · Express</sub><br />
+[Repositorio](https://github.com/N1ghthill/escola-tecnica-demo-api)
 
-<sub>Demos externas: [Escola Front](https://escola-tecnica-demo-front.vercel.app) · [BotAssist](https://botassist.ruas.dev.br)</sub>
+**api-demo**<br />
+Backend para cobranca segura, webhooks, retries e fluxo comercial.<br />
+<sub>Node · TypeScript · Express</sub><br />
+[Repositorio](https://github.com/N1ghthill/api-demo)
 
-<br />
+**BotAssist WhatsApp**<br />
+Ferramenta desktop para atendimento assistido, operacao no WhatsApp e tooling interno.<br />
+<sub>Electron · Baileys · IA</sub><br />
+[Repositorio](https://github.com/N1ghthill/botassist-whatsapp) · [Site](https://botassist.ruas.dev.br)
 
 <details>
   <summary>Ver mais repositorios publicos</summary>
