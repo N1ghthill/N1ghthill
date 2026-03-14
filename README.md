@@ -2,72 +2,74 @@
   <img src="assets/banner.png" alt="Irving Ruas profile banner" width="100%" />
 </p>
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>Perfil</strong>
-      <br />
-      Senior full stack com foco em produto, APIs, billing e automacao em operacao real.
-    </td>
-    <td width="34%" valign="top">
-      <strong>Atuacao</strong>
-      <br />
-      Sistemas para aquisicao, checkout, backoffice e integracoes usados por clientes e times internos.
-    </td>
-    <td width="33%" valign="top">
-      <strong>Disponibilidade</strong>
-      <br />
-      Oportunidades senior, consultoria tecnica e parcerias de produto.
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" valign="top" align="center">
+        <strong>🧑‍💻 Perfil</strong><br />
+        Senior full stack com foco em produto, APIs, billing e automação em operação real.
+      </td>
+      <td width="34%" valign="top" align="center">
+        <strong>⚙️ Atuação</strong><br />
+        Sistemas para aquisição, checkout, backoffice e integrações usados por clientes e times internos.
+      </td>
+      <td width="33%" valign="top" align="center">
+        <strong>📌 Disponibilidade</strong><br />
+        Oportunidades senior, consultoria técnica e parcerias de produto.
+      </td>
+    </tr>
+  </table>
+</div>
 
-## Onde eu gero valor
+---
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>Receita e conversao</strong>
-      <br />
-      Jornadas de captacao, catalogo, matricula, checkout e CRM conectadas ao uso real.
-    </td>
-    <td width="33%" valign="top">
-      <strong>APIs que sustentam operacao</strong>
-      <br />
-      Autenticacao, integracoes, observabilidade, idempotencia e desenho orientado a producao.
-    </td>
-    <td width="33%" valign="top">
-      <strong>Ferramentas para times</strong>
-      <br />
-      Backoffice, automacao e fluxos com IA para reduzir atrito operacional e tempo manual.
-    </td>
-  </tr>
-</table>
+## 🎯 Onde eu gero valor
 
-## Showcase publico
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" valign="top">
+        <strong>💰 Receita e conversão</strong><br />
+        Jornadas de captação, catálogo, matrícula, checkout e CRM conectadas ao uso real.
+      </td>
+      <td width="33%" valign="top">
+        <strong>🔌 APIs que sustentam operação</strong><br />
+        Autenticação, integrações, observabilidade, idempotência e desenho orientado a produção.
+      </td>
+      <td width="33%" valign="top">
+        <strong>🛠️ Ferramentas para times</strong><br />
+        Backoffice, automação e fluxos com IA para reduzir atrito operacional e tempo manual.
+      </td>
+    </tr>
+  </table>
+</div>
 
-**Escola Tecnica Demo Front**<br />
-Jornada publica para captacao, catalogo, pre-qualificacao e matricula.<br />
-<sub>HTML · CSS · JavaScript · Vercel</sub><br />
-[Repositorio](https://github.com/N1ghthill/escola-tecnica-demo-front) · [Demo ao vivo](https://escola-tecnica-demo-front.vercel.app)
+---
 
-**Escola Tecnica Demo API**<br />
-API Node.js e TypeScript para catalogo, leads, intencoes e metricas de jornada.<br />
-<sub>Node · TypeScript · Express</sub><br />
-[Repositorio](https://github.com/N1ghthill/escola-tecnica-demo-api)
+## 📂 Showcase público
 
-**api-demo**<br />
-Backend para cobranca segura, webhooks, retries e fluxo comercial.<br />
-<sub>Node · TypeScript · Express</sub><br />
-[Repositorio](https://github.com/N1ghthill/api-demo)
+### Escola Técnica Demo Front
+Jornada pública para captação, catálogo, pré-qualificação e matrícula.<br />
+`HTML` · `CSS` · `JavaScript` · `Vercel`<br />
+🔗 [Repositório](https://github.com/N1ghthill/escola-tecnica-demo-front) · 🌐 [Demo ao vivo](https://escola-tecnica-demo-front.vercel.app)
 
-**BotAssist WhatsApp**<br />
-Ferramenta desktop para atendimento assistido, operacao no WhatsApp e tooling interno.<br />
-<sub>Electron · Baileys · IA</sub><br />
-[Repositorio](https://github.com/N1ghthill/botassist-whatsapp) · [Site](https://botassist.ruas.dev.br)
+### Escola Técnica Demo API
+API Node.js e TypeScript para catálogo, leads, intenções e métricas de jornada.<br />
+`Node.js` · `TypeScript` · `Express`<br />
+🔗 [Repositório](https://github.com/N1ghthill/escola-tecnica-demo-api)
+
+### api-demo
+Backend para cobrança segura, webhooks, retries e fluxo comercial.<br />
+`Node.js` · `TypeScript` · `Express`<br />
+🔗 [Repositório](https://github.com/N1ghthill/api-demo)
+
+### BotAssist WhatsApp
+Ferramenta desktop para atendimento assistido, operação no WhatsApp e tooling interno.<br />
+`Electron` · `Baileys` · `IA`<br />
+🔗 [Repositório](https://github.com/N1ghthill/botassist-whatsapp) · 🌐 [Site](https://botassist.ruas.dev.br)
 
 <details>
-  <summary>Ver mais repositorios publicos</summary>
+  <summary>📌 Ver mais repositórios públicos</summary>
   <br />
   <a href="https://github.com/N1ghthill/meu-site">meu-site</a> ·
   <a href="https://github.com/N1ghthill/merlin-ia">merlin-ia</a> ·
@@ -75,15 +77,19 @@ Ferramenta desktop para atendimento assistido, operacao no WhatsApp e tooling in
   <a href="https://github.com/N1ghthill/web-analyzer-cli">web-analyzer-cli</a>
 </details>
 
-## Sistemas em operacao fora do GitHub
+---
 
-- Sistemas privados para captacao, matricula, billing e operacao comercial.
-- APIs com autenticacao, observabilidade, idempotencia e integracoes entre times e fornecedores.
-- Ferramentas internas e automacao com IA para reduzir trabalho manual em operacao.
+## 🧰 Sistemas em operação fora do GitHub
 
-## Stack recorrente
+- 🏢 Sistemas privados para captação, matrícula, billing e operação comercial.
+- 🔐 APIs com autenticação, observabilidade, idempotência e integrações entre times e fornecedores.
+- 🤖 Ferramentas internas e automação com IA para reduzir trabalho manual em operação.
 
-<p>
+---
+
+## ⚡ Stack recorrente
+
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
@@ -96,8 +102,10 @@ Ferramenta desktop para atendimento assistido, operacao no WhatsApp e tooling in
   <img src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
-## Disponibilidade
+---
 
-- Consultoria tecnica para produtos com APIs criticas, billing, jornadas de venda e automacao.
-- Apoio senior em arquitetura, execucao e estabilizacao de sistemas em operacao.
-- Atuacao senior ou fractional quando a necessidade mistura tecnologia, negocio e operacao.
+## 📫 Disponibilidade
+
+- 💼 Consultoria técnica para produtos com APIs críticas, billing, jornadas de venda e automação.
+- 🧠 Apoio senior em arquitetura, execução e estabilização de sistemas em operação.
+- 🤝 Atuação senior ou fractional quando a necessidade mistura tecnologia, negócio e operação.
