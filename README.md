@@ -23,7 +23,7 @@
 
 ---
 
-## 🎯 Onde eu gero valor
+## 🎯 Onde gero valor
 
 <div align="center">
   <table>
@@ -46,11 +46,11 @@
 
 ---
 
-## 📂 Showcase público
+## 📂 Projetos públicos
 
 Projetos públicos que mostram como transformo aquisição, cobrança e operação em sistemas usáveis no dia a dia.
 
-### Aquisição e jornada comercial
+### Captação e jornada comercial
 
 **[Escola Técnica Demo Front](https://github.com/N1ghthill/escola-tecnica-demo-front)**<br />
 Fluxo público pensado para transformar tráfego em lead qualificado e matrícula.<br />
@@ -83,7 +83,7 @@ Ferramenta interna para acelerar atendimento, padronizar operação e reduzir tr
 
 ---
 
-## 🧰 Sistemas em operação fora do GitHub
+## 🧰 Sistemas privados em operação
 
 - 🏢 Sistemas privados para captação, matrícula, billing e operação comercial.
 - 🔐 APIs com autenticação, observabilidade, idempotência e integrações entre times e fornecedores.
@@ -91,7 +91,7 @@ Ferramenta interna para acelerar atendimento, padronizar operação e reduzir tr
 
 ---
 
-## ⚡ Stack recorrente
+## ⚡ Stack principal
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -108,7 +108,7 @@ Ferramenta interna para acelerar atendimento, padronizar operação e reduzir tr
 
 ---
 
-## 📫 Disponibilidade
+## 📫 Formatos de atuação
 
 - 💼 Consultoria técnica para produtos com APIs críticas, billing, jornadas de venda e automação.
 - 🧠 Apoio senior em arquitetura, execução e estabilização de sistemas em operação.
