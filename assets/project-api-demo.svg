@@ -20,13 +20,13 @@
   <circle cx="126" cy="342" r="106" fill="#0F1E35" stroke="#38598B" stroke-opacity="0.4"/>
   <circle cx="612" cy="78" r="70" fill="#12345F" stroke="#5E86CA" stroke-opacity="0.45"/>
 
-  <rect x="40" y="40" width="136" height="34" rx="17" fill="#0E2039" stroke="#5E86CA"/>
+  <rect x="40" y="40" width="150" height="34" rx="17" fill="#0E2039" stroke="#5E86CA"/>
   <text x="62" y="62" fill="#B8CEEF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1">PAYMENTS API</text>
 
   <text x="40" y="128" fill="#F4F8FF" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">api-demo</text>
-  <text x="40" y="188" fill="#D8E4F8" font-family="Arial, Helvetica, sans-serif" font-size="20">backend demo com foco em</text>
-  <text x="40" y="218" fill="#D8E4F8" font-family="Arial, Helvetica, sans-serif" font-size="20">pagamentos idempotentes,</text>
-  <text x="40" y="248" fill="#D8E4F8" font-family="Arial, Helvetica, sans-serif" font-size="20">lead flow seguro e uso real</text>
+  <text x="40" y="188" fill="#D8E4F8" font-family="Arial, Helvetica, sans-serif" font-size="18">backend demo com foco em</text>
+  <text x="40" y="214" fill="#D8E4F8" font-family="Arial, Helvetica, sans-serif" font-size="18">pagamentos idempotentes</text>
+  <text x="40" y="240" fill="#D8E4F8" font-family="Arial, Helvetica, sans-serif" font-size="18">e lead flow seguro</text>
 
   <path d="M40 286H404" stroke="#44689E" stroke-width="2"/>
   <rect x="40" y="308" width="98" height="34" rx="17" fill="#E1EBFC"/>
@@ -37,11 +37,11 @@
   <text x="311" y="330" fill="#214C8F" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">PAYMENTS</text>
 
   <rect x="454" y="24" width="242" height="372" rx="24" fill="url(#apiPanel)"/>
-  <rect x="478" y="50" width="194" height="112" rx="18" fill="#F3F7FF"/>
-  <text x="502" y="82" fill="#335C9E" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">OPERATION READY</text>
-  <text x="502" y="112" fill="#173866" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">cobranca</text>
-  <text x="502" y="138" fill="#173866" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">lead flow</text>
-  <text x="502" y="164" fill="#173866" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">webhooks</text>
+  <rect x="478" y="50" width="194" height="126" rx="18" fill="#F3F7FF"/>
+  <text x="502" y="82" fill="#335C9E" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">OPS READY</text>
+  <text x="502" y="110" fill="#173866" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">cobranca</text>
+  <text x="502" y="136" fill="#173866" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">lead flow</text>
+  <text x="502" y="162" fill="#173866" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">webhooks</text>
 
   <rect x="478" y="190" width="194" height="160" rx="18" fill="#132540" stroke="#5E86CA"/>
   <text x="502" y="222" fill="#A8C4F7" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">FLOW</text>
