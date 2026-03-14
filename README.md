@@ -5,30 +5,25 @@
 <h1 align="center">Irving Ruas</h1>
 
 <p align="center">
-  Engenharia de produto para funis, APIs em producao e automacao aplicada.
+  Senior full stack engineer focado em APIs, billing e automacao para operacao real.
 </p>
 
 <p align="center">
-  Eu construo sistemas que conectam aquisicao, operacao e experiencia: landing pages, backends, backoffice, pagamentos e fluxos assistidos por IA.
+  Desenvolvo produtos e sistemas usados por clientes e times internos: aquisicao, checkout, backoffice, integracoes e fluxos com IA aplicada.
 </p>
 
 <p align="center">
-  <a href="https://ruas.dev.br">
-    <img src="https://img.shields.io/badge/site-ruas.dev.br-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site" />
-  </a>
-  <a href="https://linkedin.com/in/irvingruas">
-    <img src="https://img.shields.io/badge/linkedin-Irving%20Ruas-184e8e?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:irving@ruas.dev.br">
-    <img src="https://img.shields.io/badge/email-irving%40ruas.dev.br-b35c00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  Aberto a oportunidades senior, consultoria tecnica e parcerias em produto.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Product%20systems-MVP%20to%20daily%20use-173b57?style=flat-square" alt="Product systems" />
-  <img src="https://img.shields.io/badge/Revenue%20flows-lead%20capture%20to%20checkout-1d5b4f?style=flat-square" alt="Revenue flows" />
-  <img src="https://img.shields.io/badge/APIs-auth%2C%20payments%20and%20integrations-29549b?style=flat-square" alt="APIs" />
-  <img src="https://img.shields.io/badge/Automation-ops%20tooling%20plus%20AI-8f5a18?style=flat-square" alt="Automation and AI" />
+  <a href="https://ruas.dev.br"><strong>Site</strong></a> ·
+  <a href="https://linkedin.com/in/irvingruas"><strong>LinkedIn</strong></a> ·
+  <a href="mailto:irving@ruas.dev.br"><strong>Email</strong></a>
+</p>
+
+<p align="center">
+  <code>Node.js</code> <code>TypeScript</code> <code>Payments</code> <code>APIs</code> <code>Automation</code> <code>Product</code>
 </p>
 
 ## Onde eu gero valor
