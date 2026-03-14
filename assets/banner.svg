@@ -50,22 +50,22 @@
 
   <g transform="translate(782 86)">
     <rect width="392" height="92" rx="20" fill="#183A57" stroke="#5B8CC0" stroke-width="1.5"/>
-    <text x="24" y="30" fill="#8EB6ED" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.4">SHOWCASE</text>
-    <text x="24" y="56" fill="#F3F6FA" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">projetos funcionais</text>
-    <text x="24" y="82" fill="#F3F6FA" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">em uso real</text>
+    <text x="24" y="27" fill="#8EB6ED" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">SHOWCASE</text>
+    <text x="24" y="51" fill="#F3F6FA" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">projetos funcionais</text>
+    <text x="24" y="74" fill="#F3F6FA" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">em uso real</text>
   </g>
 
   <g transform="translate(748 196)">
     <rect width="426" height="96" rx="20" fill="#1A4F44" stroke="#5BA28A" stroke-width="1.5"/>
-    <text x="24" y="30" fill="#86D7B7" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.4">FOCO TECNICO</text>
-    <text x="24" y="56" fill="#F3F6FA" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">Node.js, TypeScript, billing</text>
-    <text x="24" y="82" fill="#F3F6FA" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">integracoes e operacao</text>
+    <text x="24" y="27" fill="#86D7B7" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">FOCO TECNICO</text>
+    <text x="24" y="51" fill="#F3F6FA" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Node.js, TypeScript, billing</text>
+    <text x="24" y="74" fill="#F3F6FA" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">integracoes e operacao</text>
   </g>
 
   <g transform="translate(820 314)">
     <rect width="354" height="88" rx="20" fill="#654318" stroke="#D39A46" stroke-width="1.5"/>
-    <text x="24" y="30" fill="#F2C36F" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.4">POSICIONAMENTO</text>
-    <text x="24" y="54" fill="#FBF0E0" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">vitrine tecnica</text>
-    <text x="24" y="78" fill="#FBF0E0" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">de operacao real</text>
+    <text x="24" y="27" fill="#F2C36F" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">POSICIONAMENTO</text>
+    <text x="24" y="49" fill="#FBF0E0" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">vitrine tecnica</text>
+    <text x="24" y="71" fill="#FBF0E0" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">de operacao real</text>
   </g>
 </svg>
