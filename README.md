@@ -5,11 +5,11 @@
 <h1 align="center">Irving Ruas</h1>
 
 <p align="center">
-  Engenharia de produto para funis, APIs em producao e automacao aplicada.
+  Produto digital, APIs em producao e automacao aplicada.
 </p>
 
 <p align="center">
-  Eu construo sistemas que conectam aquisicao, operacao e experiencia: landing pages, backends, backoffice, pagamentos e fluxos assistidos por IA.
+  Eu construo sistemas que ligam aquisicao, operacao e experiencia: landing pages, backends, backoffice, pagamentos e fluxos com IA.
 </p>
 
 <p align="center">
@@ -25,88 +25,51 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Product%20systems-MVP%20to%20daily%20use-173b57?style=flat-square" alt="Product systems" />
-  <img src="https://img.shields.io/badge/Revenue%20flows-lead%20capture%20to%20checkout-1d5b4f?style=flat-square" alt="Revenue flows" />
-  <img src="https://img.shields.io/badge/APIs-auth%2C%20payments%20and%20integrations-29549b?style=flat-square" alt="APIs" />
-  <img src="https://img.shields.io/badge/Automation-ops%20tooling%20plus%20AI-8f5a18?style=flat-square" alt="Automation and AI" />
+  <img src="https://img.shields.io/badge/Product-systems-173b57?style=flat-square" alt="Product systems" />
+  <img src="https://img.shields.io/badge/Revenue-funnels-1d5b4f?style=flat-square" alt="Revenue funnels" />
+  <img src="https://img.shields.io/badge/API-production-29549b?style=flat-square" alt="API production" />
+  <img src="https://img.shields.io/badge/Ops-automation%20plus%20AI-8f5a18?style=flat-square" alt="Ops automation and AI" />
 </p>
 
 ## Onde eu gero valor
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>Receita e conversao</strong>
-      <br />
-      Funis, catalogos, matricula, checkout e CRM conectados ao uso real.
-    </td>
-    <td width="33%" valign="top">
-      <strong>APIs que sustentam operacao</strong>
-      <br />
-      Auth, integracoes, observabilidade, idempotencia e desenho orientado a producao.
-    </td>
-    <td width="33%" valign="top">
-      <strong>Ferramentas para times</strong>
-      <br />
-      Backoffice, automacao e fluxos com IA para reduzir atrito e tempo manual.
-    </td>
-  </tr>
-</table>
+- Receita e conversao: funis, catalogos, matricula, checkout e CRM ligados ao uso real.
+- APIs que sustentam operacao: auth, integracoes, observabilidade e idempotencia.
+- Ferramentas para times: backoffice, automacao e fluxos com IA para reduzir atrito manual.
 
 ## Showcase publico
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/N1ghthill/escola-tecnica-demo-front">
-        <img src="assets/project-escola-front.svg" alt="Escola Tecnica Demo Front" width="100%" />
-      </a>
-      <br />
-      <sub>
-        <a href="https://github.com/N1ghthill/escola-tecnica-demo-front">Repositorio</a> ·
-        <a href="https://escola-tecnica-demo-front.vercel.app">Demo ao vivo</a>
-        <br />
-        Jornada publica para captacao, catalogo, pre-qualificacao e matricula.
-      </sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/N1ghthill/escola-tecnica-demo-api">
-        <img src="assets/project-escola-api.svg" alt="Escola Tecnica Demo API" width="100%" />
-      </a>
-      <br />
-      <sub>
-        <a href="https://github.com/N1ghthill/escola-tecnica-demo-api">Repositorio</a>
-        <br />
-        API Node.js e TypeScript para catalogo, leads, intencoes e metricas.
-      </sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/N1ghthill/api-demo">
-        <img src="assets/project-api-demo.svg" alt="api-demo" width="100%" />
-      </a>
-      <br />
-      <sub>
-        <a href="https://github.com/N1ghthill/api-demo">Repositorio</a>
-        <br />
-        Backend demo com pagamentos idempotentes e fluxo seguro de leads.
-      </sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/N1ghthill/botassist-whatsapp">
-        <img src="assets/project-botassist.svg" alt="BotAssist WhatsApp" width="100%" />
-      </a>
-      <br />
-      <sub>
-        <a href="https://github.com/N1ghthill/botassist-whatsapp">Repositorio</a> ·
-        <a href="https://botassist.ruas.dev.br">Site</a>
-        <br />
-        App desktop para operacao no WhatsApp com Electron, Baileys e IA.
-      </sub>
-    </td>
-  </tr>
-</table>
+### Escola Tecnica Demo Front
+
+<a href="https://github.com/N1ghthill/escola-tecnica-demo-front">
+  <img src="assets/project-escola-front.svg" alt="Escola Tecnica Demo Front" width="100%" />
+</a>
+
+Jornada publica para captacao, catalogo, pre-qualificacao e matricula. [Repositorio](https://github.com/N1ghthill/escola-tecnica-demo-front) · [Demo ao vivo](https://escola-tecnica-demo-front.vercel.app)
+
+### Escola Tecnica Demo API
+
+<a href="https://github.com/N1ghthill/escola-tecnica-demo-api">
+  <img src="assets/project-escola-api.svg" alt="Escola Tecnica Demo API" width="100%" />
+</a>
+
+API Node.js e TypeScript para catalogo, leads, intencoes e metricas. [Repositorio](https://github.com/N1ghthill/escola-tecnica-demo-api)
+
+### api-demo
+
+<a href="https://github.com/N1ghthill/api-demo">
+  <img src="assets/project-api-demo.svg" alt="api-demo" width="100%" />
+</a>
+
+Backend demo com pagamentos idempotentes, webhooks e lead flow seguro. [Repositorio](https://github.com/N1ghthill/api-demo)
+
+### BotAssist WhatsApp
+
+<a href="https://github.com/N1ghthill/botassist-whatsapp">
+  <img src="assets/project-botassist.svg" alt="BotAssist WhatsApp" width="100%" />
+</a>
+
+App desktop para operacao no WhatsApp com Electron, Baileys e IA. [Repositorio](https://github.com/N1ghthill/botassist-whatsapp) · [Site](https://botassist.ruas.dev.br)
 
 Mais publico: [meu-site](https://github.com/N1ghthill/meu-site), [merlin-ia](https://github.com/N1ghthill/merlin-ia), [ruas-links](https://github.com/N1ghthill/ruas-links) e [web-analyzer-cli](https://github.com/N1ghthill/web-analyzer-cli).
 
