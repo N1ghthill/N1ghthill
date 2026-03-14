@@ -7,7 +7,7 @@
     <td width="33%" valign="top">
       <strong>Perfil</strong>
       <br />
-      Senior full stack engineer em APIs, billing e automacao para operacao real.
+      Senior full stack com foco em produto, APIs, billing e automacao em operacao real.
     </td>
     <td width="34%" valign="top">
       <strong>Atuacao</strong>
@@ -17,7 +17,7 @@
     <td width="33%" valign="top">
       <strong>Disponibilidade</strong>
       <br />
-      Oportunidades senior, consultoria tecnica e parcerias em produto.
+      Oportunidades senior, consultoria tecnica e parcerias de produto.
     </td>
   </tr>
 </table>
@@ -29,17 +29,17 @@
     <td width="33%" valign="top">
       <strong>Receita e conversao</strong>
       <br />
-      Funis, catalogos, matricula, checkout e CRM conectados ao uso real.
+      Jornadas de captacao, catalogo, matricula, checkout e CRM conectadas ao uso real.
     </td>
     <td width="33%" valign="top">
       <strong>APIs que sustentam operacao</strong>
       <br />
-      Auth, integracoes, observabilidade, idempotencia e desenho orientado a producao.
+      Autenticacao, integracoes, observabilidade, idempotencia e desenho orientado a producao.
     </td>
     <td width="33%" valign="top">
       <strong>Ferramentas para times</strong>
       <br />
-      Backoffice, automacao e fluxos com IA para reduzir atrito e tempo manual.
+      Backoffice, automacao e fluxos com IA para reduzir atrito operacional e tempo manual.
     </td>
   </tr>
 </table>
@@ -69,7 +69,7 @@
 <br />
 
 <details>
-  <summary>Mais repositorios publicos</summary>
+  <summary>Ver mais repositorios publicos</summary>
   <br />
   <a href="https://github.com/N1ghthill/meu-site">meu-site</a> ·
   <a href="https://github.com/N1ghthill/merlin-ia">merlin-ia</a> ·
@@ -77,11 +77,11 @@
   <a href="https://github.com/N1ghthill/web-analyzer-cli">web-analyzer-cli</a>
 </details>
 
-## Trabalho alem do open source
+## Sistemas em operacao fora do GitHub
 
-- Sistemas privados para captacao, matricula e operacao comercial.
-- APIs com autenticacao, observabilidade, idempotencia e integracoes entre times.
-- Ferramentas internas e automacao com IA para reduzir trabalho manual.
+- Sistemas privados para captacao, matricula, billing e operacao comercial.
+- APIs com autenticacao, observabilidade, idempotencia e integracoes entre times e fornecedores.
+- Ferramentas internas e automacao com IA para reduzir trabalho manual em operacao.
 
 ## Stack recorrente
 
@@ -100,6 +100,6 @@
 
 ## Disponibilidade
 
-- Consultoria tecnica para produtos com APIs criticas, jornadas de venda e automacao.
-- Entrega de demos publicas e MVPs prontos para conversa comercial, validacao e recrutamento.
-- Atuacao senior ou fractional quando a necessidade mistura execucao tecnica e visao de negocio.
+- Consultoria tecnica para produtos com APIs criticas, billing, jornadas de venda e automacao.
+- Apoio senior em arquitetura, execucao e estabilizacao de sistemas em operacao.
+- Atuacao senior ou fractional quando a necessidade mistura tecnologia, negocio e operacao.
