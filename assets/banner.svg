@@ -69,25 +69,25 @@
   <text x="114" y="68" fill="#E9EDF4" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="26" font-weight="700" letter-spacing="2.8">IRVING RUAS</text>
 
   <text x="72" y="156" fill="#F4F5F7" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="60" font-weight="700">engenharia de produto</text>
-  <text x="72" y="214" fill="#F4F5F7" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="60" font-weight="700">APIs, billing e automacao</text>
+  <text x="72" y="214" fill="#F4F5F7" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="58" font-weight="700">Node.js, Python e payments</text>
 
-  <text x="72" y="328" fill="#CCD3DD" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="26" font-weight="400">produto, APIs, pagamentos e automacao</text>
+  <text x="72" y="328" fill="#CCD3DD" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="26" font-weight="400">automacao, APIs, AI tools e billing</text>
   <text x="72" y="370" fill="#CCD3DD" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="26" font-weight="400">em sistemas usados por clientes reais</text>
 
-  <rect x="72" y="394" width="194" height="48" rx="24" fill="#182B47" fill-opacity="0.84" stroke="#5E86B1" stroke-width="1.6"/>
-  <rect x="282" y="394" width="192" height="48" rx="24" fill="#1A3328" fill-opacity="0.9" stroke="#4F7C60" stroke-width="1.6"/>
-  <rect x="490" y="394" width="214" height="48" rx="24" fill="#4B3118" fill-opacity="0.86" stroke="#A87334" stroke-width="1.6"/>
-  <text x="122" y="425" fill="#F5F7FA" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="18" font-weight="700">full stack</text>
-  <text x="350" y="425" fill="#F5F7FA" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="18" font-weight="700">payments</text>
-  <text x="548" y="425" fill="#F5F7FA" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="18" font-weight="700">integracoes</text>
+  <rect x="72" y="394" width="214" height="48" rx="24" fill="#182B47" fill-opacity="0.84" stroke="#5E86B1" stroke-width="1.6"/>
+  <rect x="302" y="394" width="192" height="48" rx="24" fill="#1A3328" fill-opacity="0.9" stroke="#4F7C60" stroke-width="1.6"/>
+  <rect x="510" y="394" width="214" height="48" rx="24" fill="#4B3118" fill-opacity="0.86" stroke="#A87334" stroke-width="1.6"/>
+  <text x="102" y="425" fill="#F5F7FA" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="18" font-weight="700">system builder</text>
+  <text x="370" y="425" fill="#F5F7FA" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="18" font-weight="700">payments</text>
+  <text x="560" y="425" fill="#F5F7FA" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="18" font-weight="700">automation</text>
 
   <g transform="translate(820 90)">
     <rect width="382" height="118" rx="22" fill="url(#panelBlue)" stroke="#6C94BF" stroke-width="1.8"/>
     <circle cx="40" cy="33" r="10" fill="#7EA9D6"/>
     <path d="M24 58C24 48.6 31.6 41 41 41C50.4 41 58 48.6 58 58V60H24V58Z" fill="#7EA9D6"/>
     <text x="72" y="46" fill="#9CC0EA" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="1.6">PERFIL</text>
-    <text x="72" y="90" fill="#F3F5F8" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="26" font-weight="700">senior full stack</text>
-    <text x="72" y="126" fill="#F3F5F8" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="26" font-weight="700">produto, backend e IA</text>
+    <text x="72" y="90" fill="#F3F5F8" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="26" font-weight="700">system builder</text>
+    <text x="72" y="126" fill="#F3F5F8" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="26" font-weight="700">Node.js, Python e IA</text>
   </g>
 
   <g transform="translate(788 222)">
@@ -96,15 +96,15 @@
     <circle cx="56" cy="36" r="8" fill="#7EB6A1" fill-opacity="0.84"/>
     <path d="M22 58C22 49.8 28.6 43.2 36.8 43.2C45 43.2 51.6 49.8 51.6 58V60H22V58Z" fill="#7EB6A1"/>
     <path d="M40 60C40 51.8 46.6 45.2 54.8 45.2C63 45.2 69.6 51.8 69.6 60V62H40V60Z" fill="#7EB6A1" fill-opacity="0.84"/>
-    <text x="94" y="48" fill="#8FD0B8" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="1.6">PARCERIAS</text>
-    <text x="72" y="92" fill="#F3F5F8" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="26" font-weight="700">sistemas reais</text>
-    <text x="72" y="128" fill="#F3F5F8" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="26" font-weight="700">para operacao e negocio</text>
+    <text x="94" y="48" fill="#8FD0B8" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="1.6">SISTEMAS</text>
+    <text x="72" y="92" fill="#F3F5F8" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="26" font-weight="700">operacao, automacao</text>
+    <text x="72" y="128" fill="#F3F5F8" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="26" font-weight="700">e pagamentos reais</text>
   </g>
 
   <g transform="translate(864 344)">
     <rect width="342" height="96" rx="22" fill="url(#panelGold)" stroke="#D9A45B" stroke-width="1.8"/>
     <text x="26" y="30" fill="#EFC37C" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="1.8">STACK</text>
-    <text x="26" y="62" fill="#FBF1E2" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="25" font-weight="700">Node.js, TypeScript</text>
-    <text x="26" y="92" fill="#FBF1E2" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="25" font-weight="700">billing e integracoes</text>
+    <text x="26" y="62" fill="#FBF1E2" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="25" font-weight="700">Node.js, Python</text>
+    <text x="26" y="92" fill="#FBF1E2" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="23" font-weight="700">Flask, IA, Electron</text>
   </g>
 </svg>
