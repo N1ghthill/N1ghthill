@@ -7,11 +7,11 @@
     <tr>
       <td width="33%" valign="top" align="center">
         <strong>🧑‍💻 Perfil</strong><br />
-        Senior full stack e system builder com foco em Node.js, Python, produto, billing/payments e automação em operação real.
+        Senior full stack e system builder focado em Node.js, Python, billing/payments, automação e sistemas em operação real.
       </td>
       <td width="34%" valign="top" align="center">
         <strong>⚙️ Atuação</strong><br />
-        Sistemas para aquisição, checkout, billing/payments, backoffice e integrações usados por clientes e times internos.
+        Sistemas que conectam aquisição, checkout, billing/payments, backoffice e integrações em operação real.
       </td>
       <td width="33%" valign="top" align="center">
         <strong>📌 Disponibilidade</strong><br />
@@ -30,15 +30,15 @@
     <tr>
       <td width="33%" valign="top">
         <strong>💰 Receita e conversão</strong><br />
-        Jornadas de captação, catálogo, matrícula, checkout e CRM conectadas ao uso real.
+        Jornadas de captação, catálogo, matrícula, checkout e CRM conectadas à receita real.
       </td>
       <td width="33%" valign="top">
         <strong>🔌 APIs que sustentam operação</strong><br />
-        Autenticação, integrações, observabilidade, idempotência e desenho orientado a produção.
+        Autenticação, integrações, observabilidade, idempotência e desenho de sistemas orientado a produção.
       </td>
       <td width="33%" valign="top">
         <strong>🛠️ Ferramentas para times</strong><br />
-        Backoffice, automação e AI tools para reduzir atrito operacional e tempo manual.
+        Backoffice, automação e AI tools para reduzir trabalho manual e aumentar previsibilidade operacional.
       </td>
     </tr>
   </table>
@@ -48,7 +48,7 @@
 
 ## 📂 Projetos públicos
 
-Projetos públicos que mostram como transformo aquisição, cobrança, automação e AI tools em sistemas usáveis no dia a dia com Node.js e Python.
+Projetos públicos que mostram como transformo aquisição, billing/payments, automação e AI tools em sistemas usáveis no dia a dia com Node.js e Python.
 
 ### Captação e jornada comercial
 
@@ -68,12 +68,12 @@ Base transacional para cobrança e eventos críticos com consistência operacion
 `Node.js` · `TypeScript` · `Express`
 
 **[BotAssist WhatsApp](https://github.com/N1ghthill/botassist-whatsapp)**<br />
-Ferramenta interna para acelerar atendimento, padronizar operação e reduzir trabalho manual.<br />
+Ferramenta interna para acelerar atendimento, padronizar operação e reduzir trabalho manual com IA aplicada.<br />
 `Electron` · `Baileys` · `IA`<br />
 🌐 [Site](https://botassist.ruas.dev.br)
 
 **[Merlin IA](https://github.com/N1ghthill/merlin-ia)**<br />
-Assistente local-first para automação Linux, RAG privado em documentos e AI tools offline.<br />
+Assistente local-first para automação Linux, RAG privado em documentos e AI tools offline orientadas a sistema.<br />
 `Python` · `Flask` · `Electron` · `Ollama` · `ChromaDB`
 
 <details>
@@ -88,9 +88,9 @@ Assistente local-first para automação Linux, RAG privado em documentos e AI to
 
 ## 🧰 Sistemas privados em operação
 
-- 🏢 Sistemas privados para captação, matrícula, billing/payments e operação comercial.
+- 🏢 Sistemas privados que conectam captação, matrícula, billing/payments e operação comercial.
 - 🔐 APIs com autenticação, observabilidade, idempotência e integrações entre times e fornecedores.
-- 🤖 Ferramentas internas, automação e AI tools com Node.js e Python para reduzir trabalho manual em operação.
+- 🤖 Ferramentas internas, automação e AI tools com Node.js e Python para reduzir trabalho manual e aumentar previsibilidade em operação.
 
 ---
 
@@ -116,5 +116,5 @@ Assistente local-first para automação Linux, RAG privado em documentos e AI to
 ## 📫 Formatos de atuação
 
 - 💼 Consultoria técnica para produtos com APIs críticas, billing/payments, jornadas de venda e automação.
-- 🧠 Apoio senior em arquitetura, execução e estabilização de sistemas em operação.
+- 🧠 Apoio senior em arquitetura, execução e estabilização de sistemas e fluxos operacionais.
 - 🤝 Atuação senior ou fractional quando a necessidade mistura tecnologia, negócio e operação.
