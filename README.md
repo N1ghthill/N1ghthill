@@ -7,15 +7,15 @@
     <tr>
       <td width="33%" valign="top" align="center">
         <strong>🧑‍💻 Perfil</strong><br />
-        Senior full stack e system builder focado em Node.js, Python, billing/payments, automação e sistemas em operação real.
+        Product Engineer | Platform Builder focado em Node.js, Python, billing/payments, automação e IA aplicada.
       </td>
       <td width="34%" valign="top" align="center">
         <strong>⚙️ Atuação</strong><br />
-        Sistemas que conectam aquisição, checkout, billing/payments, backoffice e integrações em operação real.
+        Produtos e plataformas que conectam aquisição, checkout, billing/payments, backoffice e integrações em operação real.
       </td>
       <td width="33%" valign="top" align="center">
         <strong>📌 Disponibilidade</strong><br />
-        Oportunidades senior, consultoria técnica e parcerias de produto.
+        Oportunidades como Product Engineer, Platform Engineer, consultoria técnica ou parcerias de produto.
       </td>
     </tr>
   </table>
@@ -34,10 +34,10 @@
       </td>
       <td width="33%" valign="top">
         <strong>🔌 APIs que sustentam operação</strong><br />
-        Autenticação, integrações, observabilidade, idempotência e desenho de sistemas orientado a produção.
+        APIs robustas com autenticação, webhooks, idempotência, observabilidade e foco em produção.
       </td>
       <td width="33%" valign="top">
-        <strong>🛠️ Ferramentas para times</strong><br />
+        <strong>🛠️ IA aplicada para times</strong><br />
         Backoffice, automação e AI tools para reduzir trabalho manual e aumentar previsibilidade operacional.
       </td>
     </tr>
@@ -48,12 +48,37 @@
 
 ## 📂 Projetos públicos
 
-Projetos públicos que mostram como transformo aquisição, billing/payments, automação e AI tools em sistemas usáveis no dia a dia com Node.js e Python.
+Projetos públicos que mostram como transformo aquisição, billing/payments, automação e IA aplicada em sistemas usáveis no dia a dia com Node.js e Python.
 
-### Captação e jornada comercial
+### 🤖 IA aplicada e agentes
+
+**[DevSynapse AI](https://github.com/N1ghthill/devsynapse-ai)**<br />
+Plataforma open-source para assistente de desenvolvimento com IA. DeepSeek-first, chat com streaming, telemetria de custos e execução controlada de comandos.<br />
+`Python` · `FastAPI` · `React` · `SQLite` · `116 testes`
+
+**[BotAssist WhatsApp](https://github.com/N1ghthill/botassist-whatsapp)**<br />
+Assistente desktop para WhatsApp com IA. App Electron com auto-update, sistema de permissões e execução segura de ferramentas. v4.2.6 em produção.<br />
+`Electron` · `Node.js` · `JavaScript` · `IA`<br />
+🌐 [Site](https://botassist.ruas.dev.br)
+
+**[Merlin IA](https://github.com/N1ghthill/merlin-ia)**<br />
+Assistente local-first para automação Linux, RAG privado em documentos e AI tools offline orientadas a sistema.<br />
+`Python` · `Flask` · `Ollama` · `ChromaDB` · `96 testes`
+
+**[Master Control](https://github.com/N1ghthill/master-control)**<br />
+Runtime local-first para Linux com interface MCP, motor de políticas, aprovações e trilha de auditoria.<br />
+`Python` · `MCP` · `Linux`
+
+### 💰 Plataformas de negócio e pagamentos
+
+**[Nexo CRM](https://github.com/N1ghthill/nexo)** (privado em operação)<br />
+CRM multi-tenant com integração de pagamentos (PIX, cartão, boleto). Gerenciando R$800k+ para 3 escolas pagantes.<br />
+`Next.js` · `TypeScript` · `PostgreSQL` · `Prisma`
+
+### 📈 Captação e jornada comercial
 
 **[Escola Técnica Demo Front](https://github.com/N1ghthill/escola-tecnica-demo-front)**<br />
-Fluxo público pensado para transformar tráfego em lead qualificado e matrícula.<br />
+Fluxo público para transformar tráfego em lead qualificado e matrícula.<br />
 `HTML` · `CSS` · `JavaScript` · `Vercel`<br />
 🌐 [Demo ao vivo](https://escola-tecnica-demo-front.vercel.app)
 
@@ -61,20 +86,9 @@ Fluxo público pensado para transformar tráfego em lead qualificado e matrícul
 Backend para organizar catálogo, registrar intenção e dar visibilidade à jornada comercial.<br />
 `Node.js` · `TypeScript` · `Express`
 
-### Cobrança, operação e automação
-
 **[api-demo](https://github.com/N1ghthill/api-demo)**<br />
 Base transacional para cobrança e eventos críticos com consistência operacional.<br />
 `Node.js` · `TypeScript` · `Express`
-
-**[BotAssist WhatsApp](https://github.com/N1ghthill/botassist-whatsapp)**<br />
-Ferramenta interna para acelerar atendimento, padronizar operação e reduzir trabalho manual com IA aplicada.<br />
-`Electron` · `Baileys` · `IA`<br />
-🌐 [Site](https://botassist.ruas.dev.br)
-
-**[Merlin IA](https://github.com/N1ghthill/merlin-ia)**<br />
-Assistente local-first para automação Linux, RAG privado em documentos e AI tools offline orientadas a sistema.<br />
-`Python` · `Flask` · `Electron` · `Ollama` · `ChromaDB`
 
 <details>
   <summary>📌 Ver mais repositórios públicos</summary>
@@ -89,8 +103,8 @@ Assistente local-first para automação Linux, RAG privado em documentos e AI to
 ## 🧰 Sistemas privados em operação
 
 - 🏢 Sistemas privados que conectam captação, matrícula, billing/payments e operação comercial.
-- 🔐 APIs com autenticação, observabilidade, idempotência e integrações entre times e fornecedores.
-- 🤖 Ferramentas internas, automação e AI tools com Node.js e Python para reduzir trabalho manual e aumentar previsibilidade em operação.
+- 🔐 APIs com autenticação, webhooks, idempotência e integrações entre times e fornecedores.
+- 🤖 Ferramentas internas, automação e IA aplicada com Node.js e Python para reduzir trabalho manual e aumentar previsibilidade em operação.
 
 ---
 
@@ -100,14 +114,12 @@ Assistente local-first para automação Linux, RAG privado em documentos e AI to
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/React-149eca?style=flat-square&logo=react&logoColor=111111" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Electron-47848f?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
@@ -116,5 +128,22 @@ Assistente local-first para automação Linux, RAG privado em documentos e AI to
 ## 📫 Formatos de atuação
 
 - 💼 Consultoria técnica para produtos com APIs críticas, billing/payments, jornadas de venda e automação.
-- 🧠 Apoio senior em arquitetura, execução e estabilização de sistemas e fluxos operacionais.
-- 🤝 Atuação senior ou fractional quando a necessidade mistura tecnologia, negócio e operação.
+- 🧠 Apoio em arquitetura, execução e estabilização de sistemas e fluxos operacionais.
+- 🤝 Atuação como Product Engineer ou Platform Engineer quando a necessidade mistura tecnologia, negócio e operação.
+
+---
+
+## 📌 Projetos em destaque
+
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://github.com/N1ghthill/devsynapse-ai"><strong>DevSynapse AI</strong></a><br />Plataforma DeepSeek-first</td>
+    <td align="center"><a href="https://github.com/N1ghthill/botassist-whatsapp"><strong>BotAssist</strong></a><br />Desktop AI para WhatsApp</td>
+    <td align="center"><a href="https://github.com/N1ghthill/master-control"><strong>Master Control</strong></a><br />Runtime Linux com MCP</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/N1ghthill/merlin-ia"><strong>Merlin IA</strong></a><br />Assistente local RAG</td>
+    <td align="center"><a href="https://github.com/N1ghthill/escola-tecnica-demo-api"><strong>Escola Técnica API</strong></a><br />Backend de funil educacional</td>
+    <td align="center"><a href="https://github.com/N1ghthill/escola-tecnica-demo-front"><strong>Escola Técnica Front</strong></a><br />Frontend de demonstração</td>
+  </tr>
+</table>
